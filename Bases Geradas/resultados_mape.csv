@@ -1,0 +1,33 @@
+coffee_name,modelo,MAPE,trend,seasonal,seasonal_periods
+Americano,holtwinters,0.4142113764125202,add,add,3.0
+Americano,media_movel,0.871902476505971,,,
+Americano,auto_arima,0.37181558099595896,,,
+Americano,xgboost,0.5855484008789062,,,
+Americano with Milk,holtwinters,0.22234074394296943,add,add,3.0
+Americano with Milk,media_movel,0.2552342111645382,,,
+Americano with Milk,auto_arima,0.29260799986135416,,,
+Americano with Milk,xgboost,0.1435403823852539,,,
+Cappuccino,holtwinters,0.27084460984195713,mul,add,3.0
+Cappuccino,media_movel,0.2500628049290689,,,
+Cappuccino,auto_arima,0.24499821665983265,,,
+Cappuccino,xgboost,0.48511233925819397,,,
+Cocoa,holtwinters,1.1240461588038677,add,add,3.0
+Cocoa,media_movel,0.6888794406651549,,,
+Cocoa,auto_arima,0.4468448551000068,,,
+Cocoa,xgboost,0.08486976474523544,,,
+Cortado,holtwinters,2.221595970703126,add,mul,3.0
+Cortado,media_movel,1.597279698441359,,,
+Cortado,auto_arima,2.265723501441094,,,
+Cortado,xgboost,8.69200325012207,,,
+Espresso,holtwinters,0.5650874953330448,add,add,3.0
+Espresso,media_movel,0.8174475166410652,,,
+Espresso,auto_arima,0.7683444014581674,,,
+Espresso,xgboost,0.6509177088737488,,,
+Hot Chocolate,holtwinters,1.2306447632024011,mul,add,3.0
+Hot Chocolate,media_movel,0.6029394228279161,,,
+Hot Chocolate,auto_arima,0.3968441018806462,,,
+Hot Chocolate,xgboost,0.4604712724685669,,,
+Latte,holtwinters,inf,mul,add,3.0
+Latte,media_movel,0.2730356349557507,,,
+Latte,auto_arima,0.46804864047166755,,,
+Latte,xgboost,0.771933913230896,,,

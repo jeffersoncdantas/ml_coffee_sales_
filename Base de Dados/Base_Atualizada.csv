@@ -1,0 +1,3899 @@
+date;cash_type;money;coffee_name
+01/03/2024;card;38.7;Latte
+01/03/2024;card;38.7;Hot Chocolate
+01/03/2024;card;38.7;Hot Chocolate
+01/03/2024;card;28.9;Americano
+01/03/2024;card;38.7;Latte
+01/03/2024;card;33.8;Americano with Milk
+01/03/2024;card;38.7;Hot Chocolate
+01/03/2024;card;33.8;Americano with Milk
+01/03/2024;card;38.7;Cocoa
+01/03/2024;card;33.8;Americano with Milk
+01/03/2024;card;33.8;Americano with Milk
+02/03/2024;card;28.9;Americano
+02/03/2024;cash;40.0;Latte
+02/03/2024;card;33.8;Americano with Milk
+02/03/2024;card;33.8;Americano with Milk
+02/03/2024;card;28.9;Americano
+02/03/2024;card;33.8;Americano with Milk
+02/03/2024;card;28.9;Americano
+03/03/2024;cash;40.0;Latte
+03/03/2024;card;38.7;Latte
+03/03/2024;card;28.9;Cortado
+03/03/2024;card;28.9;Americano
+03/03/2024;card;38.7;Hot Chocolate
+03/03/2024;card;38.7;Cocoa
+03/03/2024;card;28.9;Cortado
+03/03/2024;card;33.8;Americano with Milk
+03/03/2024;card;33.8;Americano with Milk
+03/03/2024;card;38.7;Hot Chocolate
+04/03/2024;card;38.7;Latte
+04/03/2024;card;38.7;Latte
+04/03/2024;card;33.8;Americano with Milk
+04/03/2024;card;24.0;Espresso
+05/03/2024;card;38.7;Latte
+05/03/2024;card;38.7;Latte
+05/03/2024;card;38.7;Latte
+05/03/2024;card;38.7;Hot Chocolate
+05/03/2024;card;38.7;Cocoa
+05/03/2024;card;38.7;Hot Chocolate
+05/03/2024;card;38.7;Hot Chocolate
+05/03/2024;card;28.9;Cortado
+05/03/2024;card;38.7;Hot Chocolate
+06/03/2024;cash;35.0;Americano with Milk
+06/03/2024;card;28.9;Americano
+06/03/2024;card;28.9;Cortado
+06/03/2024;card;38.7;Cappuccino
+06/03/2024;card;38.7;Cappuccino
+07/03/2024;cash;40.0;Latte
+07/03/2024;card;38.7;Hot Chocolate
+07/03/2024;card;38.7;Latte
+07/03/2024;cash;40.0;Latte
+07/03/2024;card;28.9;Americano
+07/03/2024;card;33.8;Americano with Milk
+08/03/2024;card;28.9;Cortado
+08/03/2024;card;38.7;Cappuccino
+08/03/2024;card;28.9;Americano
+08/03/2024;card;28.9;Americano
+08/03/2024;card;28.9;Americano
+08/03/2024;card;33.8;Americano with Milk
+08/03/2024;card;38.7;Latte
+08/03/2024;card;38.7;Latte
+09/03/2024;cash;40.0;Hot Chocolate
+09/03/2024;card;24.0;Espresso
+09/03/2024;card;28.9;Americano
+09/03/2024;card;38.7;Cappuccino
+09/03/2024;card;28.9;Americano
+09/03/2024;card;28.9;Americano
+09/03/2024;card;38.7;Latte
+09/03/2024;card;33.8;Americano with Milk
+09/03/2024;card;28.9;Cortado
+09/03/2024;card;38.7;Cappuccino
+09/03/2024;card;33.8;Americano with Milk
+09/03/2024;card;38.7;Hot Chocolate
+09/03/2024;card;38.7;Cappuccino
+09/03/2024;card;38.7;Hot Chocolate
+10/03/2024;cash;30.0;Americano
+10/03/2024;cash;35.0;Americano with Milk
+10/03/2024;cash;40.0;Latte
+10/03/2024;card;24.0;Espresso
+10/03/2024;cash;35.0;Americano with Milk
+10/03/2024;card;38.7;Latte
+10/03/2024;card;28.9;Cortado
+11/03/2024;cash;40.0;Latte
+11/03/2024;cash;40.0;Cappuccino
+11/03/2024;cash;30.0;Cortado
+11/03/2024;cash;30.0;Americano
+11/03/2024;card;38.7;Cappuccino
+11/03/2024;card;28.9;Americano
+11/03/2024;card;38.7;Latte
+11/03/2024;card;28.9;Cortado
+12/03/2024;cash;40.0;Latte
+12/03/2024;card;28.9;Americano
+12/03/2024;card;28.9;Cortado
+12/03/2024;card;38.7;Hot Chocolate
+12/03/2024;card;33.8;Americano with Milk
+12/03/2024;card;28.9;Americano
+12/03/2024;card;28.9;Americano
+13/03/2024;card;38.7;Hot Chocolate
+13/03/2024;card;28.9;Americano
+13/03/2024;card;28.9;Americano
+13/03/2024;card;28.9;Americano
+13/03/2024;cash;25.0;Espresso
+13/03/2024;card;33.8;Americano with Milk
+13/03/2024;card;24.0;Espresso
+13/03/2024;card;24.0;Espresso
+13/03/2024;card;24.0;Espresso
+14/03/2024;cash;40.0;Latte
+14/03/2024;card;38.7;Latte
+14/03/2024;card;38.7;Hot Chocolate
+14/03/2024;card;28.9;Cortado
+14/03/2024;card;28.9;Americano
+14/03/2024;card;33.8;Americano with Milk
+14/03/2024;card;24.0;Espresso
+14/03/2024;card;38.7;Latte
+14/03/2024;card;33.8;Americano with Milk
+14/03/2024;card;24.0;Espresso
+14/03/2024;card;38.7;Hot Chocolate
+14/03/2024;card;28.9;Cortado
+15/03/2024;cash;40.0;Latte
+15/03/2024;card;38.7;Hot Chocolate
+15/03/2024;card;28.9;Americano
+16/03/2024;card;33.8;Americano with Milk
+16/03/2024;card;28.9;Americano
+16/03/2024;card;28.9;Cortado
+16/03/2024;card;28.9;Cortado
+16/03/2024;card;28.9;Cortado
+16/03/2024;card;33.8;Americano with Milk
+17/03/2024;cash;40.0;Latte
+17/03/2024;card;28.9;Cortado
+18/03/2024;card;28.9;Cortado
+18/03/2024;card;28.9;Americano
+18/03/2024;card;28.9;Americano
+18/03/2024;card;28.9;Americano
+19/03/2024;cash;30.0;Cortado
+19/03/2024;card;38.7;Latte
+19/03/2024;card;38.7;Latte
+19/03/2024;card;38.7;Hot Chocolate
+19/03/2024;card;33.8;Americano with Milk
+19/03/2024;cash;40.0;Hot Chocolate
+20/03/2024;card;28.9;Cortado
+20/03/2024;cash;40.0;Latte
+20/03/2024;card;28.9;Cortado
+20/03/2024;card;38.7;Cappuccino
+20/03/2024;card;38.7;Cocoa
+20/03/2024;card;38.7;Latte
+21/03/2024;cash;40.0;Cappuccino
+21/03/2024;card;28.9;Cortado
+21/03/2024;card;38.7;Cappuccino
+21/03/2024;cash;30.0;Americano
+21/03/2024;card;28.9;Cortado
+21/03/2024;card;38.7;Latte
+22/03/2024;card;33.8;Americano with Milk
+22/03/2024;card;33.8;Americano with Milk
+22/03/2024;cash;40.0;Cappuccino
+22/03/2024;card;28.9;Americano
+22/03/2024;card;24.0;Espresso
+22/03/2024;card;28.9;Americano
+23/03/2024;card;38.7;Latte
+23/03/2024;card;33.8;Americano with Milk
+23/03/2024;card;38.7;Cappuccino
+23/03/2024;card;38.7;Cocoa
+23/03/2024;card;33.8;Americano with Milk
+23/03/2024;card;38.7;Latte
+23/03/2024;card;33.8;Americano with Milk
+23/03/2024;card;28.9;Cortado
+24/03/2024;cash;40.0;Latte
+24/03/2024;card;38.7;Latte
+25/03/2024;card;38.7;Latte
+25/03/2024;cash;35.0;Americano with Milk
+25/03/2024;card;38.7;Latte
+25/03/2024;card;38.7;Latte
+25/03/2024;card;33.8;Americano with Milk
+25/03/2024;card;38.7;Cappuccino
+26/03/2024;card;38.7;Cocoa
+26/03/2024;card;38.7;Latte
+26/03/2024;card;38.7;Latte
+26/03/2024;card;28.9;Cortado
+26/03/2024;card;28.9;Americano
+26/03/2024;card;28.9;Cortado
+26/03/2024;card;28.9;Cortado
+26/03/2024;card;28.9;Americano
+26/03/2024;card;38.7;Latte
+26/03/2024;card;38.7;Latte
+26/03/2024;card;38.7;Hot Chocolate
+27/03/2024;card;28.9;Cortado
+27/03/2024;card;33.8;Americano with Milk
+27/03/2024;card;33.8;Americano with Milk
+27/03/2024;card;38.7;Hot Chocolate
+27/03/2024;card;38.7;Cappuccino
+27/03/2024;card;28.9;Americano
+27/03/2024;card;28.9;Cortado
+27/03/2024;cash;40.0;Latte
+28/03/2024;card;28.9;Cortado
+28/03/2024;card;28.9;Cortado
+28/03/2024;card;28.9;Americano
+28/03/2024;card;38.7;Latte
+29/03/2024;card;38.7;Latte
+29/03/2024;card;38.7;Cappuccino
+29/03/2024;card;38.7;Cappuccino
+29/03/2024;cash;40.0;Cappuccino
+30/03/2024;card;38.7;Latte
+30/03/2024;cash;40.0;Cappuccino
+30/03/2024;card;38.7;Latte
+30/03/2024;card;38.7;Latte
+30/03/2024;card;33.8;Americano with Milk
+31/03/2024;card;38.7;Cappuccino
+31/03/2024;cash;30.0;Americano
+01/04/2024;card;28.9;Americano
+01/04/2024;card;33.8;Americano with Milk
+01/04/2024;card;33.8;Americano with Milk
+01/04/2024;card;33.8;Americano with Milk
+01/04/2024;cash;40.0;Cappuccino
+01/04/2024;card;33.8;Americano with Milk
+01/04/2024;card;38.7;Hot Chocolate
+02/04/2024;card;38.7;Latte
+02/04/2024;card;28.9;Americano
+02/04/2024;card;28.9;Cortado
+02/04/2024;cash;40.0;Cappuccino
+03/04/2024;card;28.9;Cortado
+03/04/2024;card;28.9;Americano
+03/04/2024;card;38.7;Cappuccino
+03/04/2024;cash;30.0;Cortado
+04/04/2024;card;38.7;Latte
+04/04/2024;card;38.7;Latte
+04/04/2024;card;38.7;Cappuccino
+04/04/2024;card;28.9;Cortado
+04/04/2024;cash;40.0;Latte
+05/04/2024;card;28.9;Americano
+05/04/2024;card;28.9;Americano
+05/04/2024;card;28.9;Cortado
+05/04/2024;card;33.8;Americano with Milk
+05/04/2024;card;38.7;Latte
+05/04/2024;card;28.9;Cortado
+05/04/2024;cash;40.0;Latte
+05/04/2024;cash;40.0;Cappuccino
+05/04/2024;cash;30.0;Americano
+05/04/2024;cash;40.0;Cocoa
+05/04/2024;card;24.0;Espresso
+06/04/2024;card;33.8;Americano with Milk
+06/04/2024;card;38.7;Cappuccino
+06/04/2024;card;28.9;Americano
+06/04/2024;card;38.7;Latte
+07/04/2024;card;38.7;Latte
+07/04/2024;card;38.7;Cappuccino
+07/04/2024;card;38.7;Cappuccino
+07/04/2024;card;28.9;Cortado
+07/04/2024;card;24.0;Espresso
+07/04/2024;card;38.7;Hot Chocolate
+07/04/2024;card;33.8;Americano with Milk
+08/04/2024;card;33.8;Americano with Milk
+08/04/2024;card;38.7;Cappuccino
+08/04/2024;card;28.9;Americano
+08/04/2024;card;38.7;Cappuccino
+08/04/2024;cash;25.0;Espresso
+08/04/2024;cash;35.0;Americano with Milk
+08/04/2024;card;38.7;Latte
+08/04/2024;card;28.9;Americano
+08/04/2024;card;33.8;Americano with Milk
+08/04/2024;card;38.7;Cappuccino
+09/04/2024;cash;40.0;Cappuccino
+09/04/2024;cash;30.0;Americano
+09/04/2024;card;38.7;Latte
+09/04/2024;card;38.7;Hot Chocolate
+09/04/2024;card;38.7;Hot Chocolate
+10/04/2024;cash;25.0;Espresso
+10/04/2024;cash;40.0;Hot Chocolate
+10/04/2024;card;24.0;Espresso
+10/04/2024;card;38.7;Cappuccino
+10/04/2024;card;38.7;Latte
+11/04/2024;card;28.9;Americano
+11/04/2024;card;28.9;Americano
+11/04/2024;card;38.7;Latte
+11/04/2024;card;38.7;Cappuccino
+11/04/2024;card;33.8;Americano with Milk
+12/04/2024;card;38.7;Hot Chocolate
+12/04/2024;card;28.9;Cortado
+13/04/2024;card;38.7;Latte
+13/04/2024;card;28.9;Americano
+13/04/2024;cash;40.0;Hot Chocolate
+13/04/2024;cash;40.0;Hot Chocolate
+13/04/2024;card;38.7;Cappuccino
+13/04/2024;card;38.7;Latte
+13/04/2024;card;38.7;Cappuccino
+13/04/2024;card;38.7;Cappuccino
+14/04/2024;cash;40.0;Latte
+14/04/2024;card;38.7;Cappuccino
+14/04/2024;cash;30.0;Cortado
+14/04/2024;cash;30.0;Cortado
+14/04/2024;cash;35.0;Americano with Milk
+14/04/2024;card;28.9;Cortado
+14/04/2024;card;28.9;Americano
+14/04/2024;card;28.9;Americano
+14/04/2024;card;28.9;Americano
+14/04/2024;card;38.7;Cappuccino
+14/04/2024;card;28.9;Cortado
+14/04/2024;card;38.7;Latte
+14/04/2024;card;38.7;Cappuccino
+15/04/2024;card;28.9;Americano
+15/04/2024;card;28.9;Americano
+15/04/2024;card;33.8;Americano with Milk
+15/04/2024;card;33.8;Americano with Milk
+15/04/2024;cash;25.0;Espresso
+16/04/2024;cash;35.0;Americano with Milk
+16/04/2024;card;33.8;Americano with Milk
+16/04/2024;card;38.7;Cocoa
+16/04/2024;card;28.9;Cortado
+16/04/2024;card;28.9;Americano
+16/04/2024;card;33.8;Americano with Milk
+16/04/2024;card;38.7;Cappuccino
+16/04/2024;card;38.7;Cocoa
+17/04/2024;card;28.9;Americano
+17/04/2024;card;24.0;Espresso
+17/04/2024;cash;40.0;Cappuccino
+17/04/2024;card;38.7;Cappuccino
+17/04/2024;card;38.7;Cappuccino
+17/04/2024;card;28.9;Cortado
+18/04/2024;card;28.9;Americano
+18/04/2024;card;28.9;Americano
+18/04/2024;card;33.8;Americano with Milk
+18/04/2024;card;28.9;Cortado
+18/04/2024;card;38.7;Cappuccino
+18/04/2024;card;38.7;Latte
+18/04/2024;card;38.7;Latte
+18/04/2024;card;38.7;Cappuccino
+18/04/2024;card;38.7;Hot Chocolate
+18/04/2024;card;38.7;Hot Chocolate
+19/04/2024;card;38.7;Latte
+19/04/2024;card;33.8;Americano with Milk
+19/04/2024;card;38.7;Cappuccino
+19/04/2024;card;38.7;Hot Chocolate
+19/04/2024;card;38.7;Cappuccino
+19/04/2024;card;38.7;Cocoa
+19/04/2024;card;33.8;Americano with Milk
+20/04/2024;cash;35.0;Americano with Milk
+20/04/2024;card;33.8;Americano with Milk
+20/04/2024;card;33.8;Americano with Milk
+20/04/2024;card;28.9;Americano
+20/04/2024;card;33.8;Americano with Milk
+20/04/2024;card;38.7;Hot Chocolate
+20/04/2024;card;38.7;Cappuccino
+20/04/2024;card;33.8;Americano with Milk
+20/04/2024;card;32.82;Americano with Milk
+20/04/2024;card;32.82;Americano with Milk
+20/04/2024;cash;39.0;Cocoa
+20/04/2024;card;37.72;Cappuccino
+20/04/2024;card;37.72;Cappuccino
+20/04/2024;card;37.72;Latte
+21/04/2024;card;37.72;Latte
+21/04/2024;card;27.92;Americano
+21/04/2024;cash;39.0;Cappuccino
+22/04/2024;card;27.92;Americano
+22/04/2024;card;32.82;Americano with Milk
+22/04/2024;cash;39.0;Latte
+22/04/2024;card;37.72;Latte
+22/04/2024;cash;39.0;Cappuccino
+23/04/2024;card;37.72;Cappuccino
+23/04/2024;card;32.82;Americano with Milk
+23/04/2024;card;37.72;Cappuccino
+23/04/2024;card;32.82;Americano with Milk
+23/04/2024;card;32.82;Americano with Milk
+24/04/2024;card;37.72;Latte
+24/04/2024;card;32.82;Americano with Milk
+24/04/2024;card;32.82;Americano with Milk
+24/04/2024;card;32.82;Americano with Milk
+24/04/2024;card;32.82;Americano with Milk
+24/04/2024;card;32.82;Americano with Milk
+24/04/2024;card;32.82;Americano with Milk
+24/04/2024;card;37.72;Cappuccino
+25/04/2024;card;27.92;Americano
+25/04/2024;card;37.72;Latte
+25/04/2024;card;27.92;Americano
+25/04/2024;card;27.92;Americano
+26/04/2024;card;37.72;Latte
+26/04/2024;card;37.72;Latte
+26/04/2024;card;37.72;Cappuccino
+26/04/2024;card;27.92;Americano
+26/04/2024;card;27.92;Americano
+26/04/2024;card;27.92;Cortado
+26/04/2024;card;27.92;Americano
+26/04/2024;card;37.72;Hot Chocolate
+26/04/2024;card;37.72;Cocoa
+27/04/2024;card;37.72;Cappuccino
+28/04/2024;card;37.72;Latte
+28/04/2024;card;37.72;Cappuccino
+28/04/2024;card;27.92;Americano
+28/04/2024;card;27.92;Americano
+28/04/2024;card;37.72;Latte
+29/04/2024;card;27.92;Cortado
+29/04/2024;card;27.92;Americano
+29/04/2024;card;27.92;Cortado
+29/04/2024;card;27.92;Cortado
+29/04/2024;card;32.82;Americano with Milk
+29/04/2024;card;37.72;Cappuccino
+29/04/2024;card;37.72;Cappuccino
+29/04/2024;card;37.72;Cappuccino
+30/04/2024;card;37.72;Latte
+30/04/2024;card;32.82;Americano with Milk
+30/04/2024;card;32.82;Americano with Milk
+30/04/2024;card;27.92;Americano
+30/04/2024;card;32.82;Americano with Milk
+30/04/2024;card;37.72;Cappuccino
+30/04/2024;card;32.82;Americano with Milk
+30/04/2024;card;37.72;Latte
+02/05/2024;card;27.92;Americano
+02/05/2024;cash;39.0;Latte
+02/05/2024;card;32.82;Americano with Milk
+02/05/2024;card;37.72;Cappuccino
+02/05/2024;card;32.82;Americano with Milk
+02/05/2024;card;37.72;Latte
+02/05/2024;card;37.72;Cappuccino
+03/05/2024;cash;39.0;Latte
+03/05/2024;card;37.72;Latte
+03/05/2024;card;37.72;Latte
+06/05/2024;card;27.92;Americano
+06/05/2024;card;37.72;Cappuccino
+06/05/2024;card;32.82;Americano with Milk
+06/05/2024;card;27.92;Americano
+06/05/2024;card;27.92;Cortado
+06/05/2024;cash;29.0;Americano
+06/05/2024;card;27.92;Cortado
+06/05/2024;card;27.92;Americano
+06/05/2024;card;37.72;Cappuccino
+06/05/2024;card;37.72;Cappuccino
+07/05/2024;card;37.72;Cocoa
+07/05/2024;card;27.92;Cortado
+07/05/2024;card;27.92;Cortado
+07/05/2024;card;37.72;Cocoa
+07/05/2024;card;27.92;Americano
+07/05/2024;card;37.72;Cappuccino
+07/05/2024;card;37.72;Latte
+07/05/2024;cash;34.0;Americano with Milk
+07/05/2024;card;37.72;Cappuccino
+07/05/2024;card;37.72;Cappuccino
+08/05/2024;card;37.72;Latte
+09/05/2024;card;37.72;Cappuccino
+09/05/2024;card;27.92;Americano
+09/05/2024;card;37.72;Latte
+09/05/2024;card;37.72;Latte
+09/05/2024;card;37.72;Latte
+09/05/2024;card;27.92;Americano
+09/05/2024;card;27.92;Americano
+09/05/2024;card;27.92;Americano
+09/05/2024;card;32.82;Americano with Milk
+10/05/2024;cash;39.0;Latte
+10/05/2024;card;37.72;Latte
+10/05/2024;card;37.72;Latte
+10/05/2024;cash;34.0;Americano with Milk
+11/05/2024;card;37.72;Latte
+11/05/2024;cash;39.0;Latte
+11/05/2024;card;32.82;Americano with Milk
+11/05/2024;card;37.72;Cocoa
+11/05/2024;card;37.72;Cappuccino
+11/05/2024;card;32.82;Americano with Milk
+11/05/2024;card;37.72;Cappuccino
+11/05/2024;card;37.72;Latte
+12/05/2024;card;37.72;Latte
+12/05/2024;card;37.72;Latte
+12/05/2024;card;27.92;Americano
+12/05/2024;card;37.72;Latte
+12/05/2024;card;32.82;Americano with Milk
+12/05/2024;card;32.82;Americano with Milk
+12/05/2024;card;32.82;Americano with Milk
+12/05/2024;card;32.82;Americano with Milk
+13/05/2024;card;32.82;Americano with Milk
+13/05/2024;cash;29.0;Americano
+13/05/2024;cash;29.0;Americano
+14/05/2024;card;27.92;Americano
+14/05/2024;card;27.92;Americano
+14/05/2024;card;27.92;Americano
+14/05/2024;card;37.72;Cappuccino
+14/05/2024;card;37.72;Latte
+14/05/2024;card;37.72;Cappuccino
+14/05/2024;card;37.72;Cappuccino
+14/05/2024;card;32.82;Americano with Milk
+14/05/2024;card;27.92;Americano
+14/05/2024;card;32.82;Americano with Milk
+14/05/2024;card;37.72;Cappuccino
+14/05/2024;card;37.72;Hot Chocolate
+15/05/2024;card;37.72;Latte
+15/05/2024;card;23.02;Espresso
+15/05/2024;card;27.92;Americano
+15/05/2024;card;27.92;Americano
+15/05/2024;card;27.92;Americano
+15/05/2024;card;27.92;Americano
+15/05/2024;card;32.82;Americano with Milk
+15/05/2024;cash;29.0;Americano
+15/05/2024;card;27.92;Cortado
+15/05/2024;card;27.92;Cortado
+15/05/2024;card;23.02;Espresso
+15/05/2024;card;37.72;Cappuccino
+16/05/2024;card;32.82;Americano with Milk
+16/05/2024;card;32.82;Americano with Milk
+16/05/2024;cash;39.0;Latte
+16/05/2024;cash;39.0;Cappuccino
+16/05/2024;card;32.82;Americano with Milk
+16/05/2024;card;37.72;Hot Chocolate
+16/05/2024;card;37.72;Latte
+16/05/2024;card;37.72;Hot Chocolate
+16/05/2024;card;37.72;Latte
+17/05/2024;card;27.92;Americano
+17/05/2024;card;32.82;Americano with Milk
+17/05/2024;cash;34.0;Americano with Milk
+17/05/2024;card;32.82;Americano with Milk
+17/05/2024;card;37.72;Cappuccino
+17/05/2024;card;37.72;Cappuccino
+17/05/2024;card;27.92;Americano
+17/05/2024;card;37.72;Latte
+17/05/2024;card;37.72;Latte
+18/05/2024;card;37.72;Cappuccino
+18/05/2024;card;37.72;Cappuccino
+18/05/2024;card;32.82;Americano with Milk
+18/05/2024;card;32.82;Americano with Milk
+18/05/2024;card;32.82;Americano with Milk
+18/05/2024;card;32.82;Americano with Milk
+18/05/2024;card;37.72;Latte
+18/05/2024;cash;39.0;Cappuccino
+19/05/2024;card;27.92;Americano
+19/05/2024;card;27.92;Americano
+19/05/2024;card;37.72;Cappuccino
+19/05/2024;cash;24.0;Espresso
+19/05/2024;card;32.82;Americano with Milk
+19/05/2024;card;27.92;Americano
+19/05/2024;card;32.82;Americano with Milk
+19/05/2024;card;32.82;Americano with Milk
+19/05/2024;card;23.02;Espresso
+19/05/2024;card;37.72;Hot Chocolate
+19/05/2024;card;37.72;Cappuccino
+19/05/2024;card;37.72;Cappuccino
+19/05/2024;card;37.72;Cappuccino
+20/05/2024;card;32.82;Americano with Milk
+20/05/2024;card;37.72;Latte
+20/05/2024;card;37.72;Latte
+20/05/2024;card;27.92;Americano
+20/05/2024;card;27.92;Americano
+20/05/2024;card;27.92;Americano
+20/05/2024;card;27.92;Americano
+20/05/2024;card;32.82;Americano with Milk
+20/05/2024;card;37.72;Cappuccino
+20/05/2024;cash;29.0;Americano
+20/05/2024;card;37.72;Latte
+20/05/2024;card;37.72;Latte
+20/05/2024;card;32.82;Americano with Milk
+20/05/2024;card;37.72;Cocoa
+20/05/2024;card;27.92;Cortado
+20/05/2024;card;32.82;Americano with Milk
+20/05/2024;card;32.82;Americano with Milk
+21/05/2024;card;37.72;Latte
+21/05/2024;cash;29.0;Americano
+21/05/2024;cash;34.0;Americano with Milk
+21/05/2024;cash;39.0;Cocoa
+21/05/2024;cash;39.0;Latte
+21/05/2024;card;37.72;Latte
+21/05/2024;card;23.02;Espresso
+21/05/2024;card;37.72;Cappuccino
+21/05/2024;card;37.72;Cappuccino
+22/05/2024;card;37.72;Cappuccino
+22/05/2024;card;32.82;Americano with Milk
+22/05/2024;card;27.92;Cortado
+22/05/2024;card;32.82;Americano with Milk
+22/05/2024;card;27.92;Americano
+22/05/2024;card;27.92;Americano
+22/05/2024;card;32.82;Americano with Milk
+22/05/2024;card;37.72;Cappuccino
+22/05/2024;card;37.72;Cappuccino
+22/05/2024;card;37.72;Hot Chocolate
+22/05/2024;card;37.72;Cappuccino
+23/05/2024;card;37.72;Cappuccino
+23/05/2024;card;23.02;Espresso
+23/05/2024;card;37.72;Cappuccino
+23/05/2024;card;37.72;Cappuccino
+23/05/2024;card;37.72;Cappuccino
+23/05/2024;card;37.72;Latte
+23/05/2024;card;37.72;Cappuccino
+23/05/2024;card;37.72;Latte
+23/05/2024;card;27.92;Cortado
+23/05/2024;card;37.72;Cappuccino
+23/05/2024;card;37.72;Cappuccino
+23/05/2024;card;37.72;Cappuccino
+23/05/2024;card;37.72;Cappuccino
+23/05/2024;card;37.72;Latte
+23/05/2024;card;32.82;Americano with Milk
+23/05/2024;cash;39.0;Hot Chocolate
+24/05/2024;card;27.92;Cortado
+24/05/2024;card;27.92;Americano
+24/05/2024;card;27.92;Americano
+24/05/2024;card;37.72;Hot Chocolate
+24/05/2024;card;27.92;Cortado
+24/05/2024;card;27.92;Cortado
+24/05/2024;card;32.82;Americano with Milk
+25/05/2024;cash;29.0;Americano
+25/05/2024;card;37.72;Latte
+25/05/2024;cash;29.0;Americano
+25/05/2024;card;32.82;Americano with Milk
+25/05/2024;card;32.82;Americano with Milk
+25/05/2024;card;32.82;Americano with Milk
+25/05/2024;card;32.82;Americano with Milk
+25/05/2024;card;27.92;Americano
+26/05/2024;card;37.72;Latte
+26/05/2024;card;32.82;Americano with Milk
+26/05/2024;card;27.92;Cortado
+26/05/2024;card;32.82;Americano with Milk
+26/05/2024;card;37.72;Cappuccino
+26/05/2024;card;37.72;Hot Chocolate
+26/05/2024;card;37.72;Hot Chocolate
+26/05/2024;card;27.92;Americano
+26/05/2024;card;37.72;Latte
+26/05/2024;card;37.72;Hot Chocolate
+26/05/2024;card;37.72;Cappuccino
+26/05/2024;card;27.92;Cortado
+26/05/2024;card;37.72;Cappuccino
+26/05/2024;card;37.72;Latte
+26/05/2024;card;37.72;Cappuccino
+27/05/2024;card;27.92;Americano
+27/05/2024;card;32.82;Americano with Milk
+27/05/2024;card;37.72;Cocoa
+27/05/2024;card;27.92;Americano
+27/05/2024;card;27.92;Americano
+27/05/2024;card;37.72;Latte
+27/05/2024;card;27.92;Americano
+27/05/2024;card;37.72;Latte
+27/05/2024;card;37.72;Latte
+27/05/2024;card;32.82;Americano with Milk
+27/05/2024;card;37.72;Cappuccino
+28/05/2024;card;32.82;Americano with Milk
+28/05/2024;card;32.82;Americano with Milk
+28/05/2024;card;37.72;Cappuccino
+28/05/2024;card;37.72;Cappuccino
+28/05/2024;card;37.72;Cocoa
+28/05/2024;card;27.92;Cortado
+28/05/2024;cash;39.0;Cappuccino
+28/05/2024;card;27.92;Americano
+28/05/2024;card;37.72;Latte
+28/05/2024;card;32.82;Americano with Milk
+28/05/2024;card;27.92;Americano
+29/05/2024;card;37.72;Latte
+29/05/2024;cash;39.0;Latte
+29/05/2024;card;37.72;Hot Chocolate
+29/05/2024;card;27.92;Americano
+29/05/2024;card;37.72;Latte
+29/05/2024;card;37.72;Cappuccino
+29/05/2024;card;37.72;Latte
+29/05/2024;card;27.92;Cortado
+29/05/2024;card;37.72;Latte
+29/05/2024;card;37.72;Hot Chocolate
+29/05/2024;card;37.72;Cocoa
+30/05/2024;card;37.72;Cappuccino
+30/05/2024;card;37.72;Latte
+30/05/2024;card;32.82;Americano with Milk
+30/05/2024;card;37.72;Latte
+30/05/2024;card;32.82;Americano with Milk
+30/05/2024;card;23.02;Espresso
+30/05/2024;card;23.02;Espresso
+30/05/2024;card;37.72;Cappuccino
+30/05/2024;card;37.72;Latte
+30/05/2024;card;37.72;Hot Chocolate
+30/05/2024;card;32.82;Americano with Milk
+31/05/2024;card;32.82;Americano with Milk
+31/05/2024;card;37.72;Latte
+31/05/2024;cash;39.0;Latte
+31/05/2024;card;37.72;Hot Chocolate
+31/05/2024;card;37.72;Cocoa
+31/05/2024;card;32.82;Americano with Milk
+31/05/2024;card;37.72;Latte
+31/05/2024;card;37.72;Latte
+31/05/2024;card;37.72;Cappuccino
+31/05/2024;card;32.82;Americano with Milk
+31/05/2024;card;37.72;Latte
+31/05/2024;card;37.72;Cappuccino
+31/05/2024;card;32.82;Americano with Milk
+31/05/2024;card;27.92;Cortado
+01/06/2024;card;27.92;Cortado
+01/06/2024;card;37.72;Latte
+01/06/2024;card;37.72;Latte
+01/06/2024;card;32.82;Americano with Milk
+01/06/2024;card;32.82;Americano with Milk
+01/06/2024;card;32.82;Americano with Milk
+01/06/2024;card;37.72;Cappuccino
+01/06/2024;card;37.72;Cappuccino
+01/06/2024;cash;39.0;Cocoa
+01/06/2024;card;37.72;Cocoa
+01/06/2024;card;32.82;Americano with Milk
+02/06/2024;card;37.72;Latte
+02/06/2024;card;32.82;Americano with Milk
+02/06/2024;card;37.72;Cappuccino
+02/06/2024;card;32.82;Americano with Milk
+02/06/2024;card;37.72;Latte
+02/06/2024;cash;34.0;Americano with Milk
+03/06/2024;card;37.72;Latte
+03/06/2024;card;37.72;Latte
+03/06/2024;card;37.72;Cappuccino
+03/06/2024;card;32.82;Americano with Milk
+03/06/2024;card;37.72;Latte
+03/06/2024;cash;34.0;Americano with Milk
+03/06/2024;cash;34.0;Americano with Milk
+04/06/2024;card;27.92;Cortado
+04/06/2024;card;32.82;Americano with Milk
+04/06/2024;card;37.72;Latte
+04/06/2024;card;37.72;Hot Chocolate
+04/06/2024;card;37.72;Latte
+04/06/2024;card;27.92;Cortado
+04/06/2024;card;37.72;Cappuccino
+04/06/2024;card;37.72;Hot Chocolate
+04/06/2024;card;37.72;Cappuccino
+04/06/2024;card;27.92;Cortado
+04/06/2024;card;32.82;Americano with Milk
+04/06/2024;card;32.82;Americano with Milk
+04/06/2024;card;32.82;Americano with Milk
+04/06/2024;card;32.82;Americano with Milk
+05/06/2024;card;37.72;Cappuccino
+05/06/2024;card;37.72;Cappuccino
+05/06/2024;card;27.92;Americano
+05/06/2024;card;37.72;Latte
+05/06/2024;card;32.82;Americano with Milk
+05/06/2024;card;32.82;Americano with Milk
+05/06/2024;card;37.72;Latte
+05/06/2024;card;37.72;Cocoa
+05/06/2024;card;27.92;Cortado
+06/06/2024;card;32.82;Americano with Milk
+06/06/2024;card;32.82;Americano with Milk
+06/06/2024;card;37.72;Latte
+06/06/2024;card;27.92;Americano
+06/06/2024;card;32.82;Americano with Milk
+06/06/2024;card;37.72;Cappuccino
+06/06/2024;card;37.72;Latte
+06/06/2024;card;37.72;Latte
+06/06/2024;card;37.72;Cappuccino
+06/06/2024;card;32.82;Americano with Milk
+06/06/2024;card;37.72;Latte
+07/06/2024;card;37.72;Cappuccino
+07/06/2024;card;23.02;Espresso
+07/06/2024;card;32.82;Americano with Milk
+07/06/2024;card;27.92;Cortado
+07/06/2024;card;27.92;Cortado
+08/06/2024;card;27.92;Cortado
+08/06/2024;card;32.82;Americano with Milk
+08/06/2024;card;37.72;Cappuccino
+08/06/2024;card;37.72;Cappuccino
+09/06/2024;card;37.72;Latte
+09/06/2024;card;37.72;Latte
+09/06/2024;card;37.72;Cappuccino
+09/06/2024;card;27.92;Cortado
+09/06/2024;card;23.02;Espresso
+09/06/2024;card;37.72;Cappuccino
+09/06/2024;card;32.82;Americano with Milk
+09/06/2024;card;37.72;Latte
+09/06/2024;card;37.72;Latte
+09/06/2024;card;27.92;Cortado
+09/06/2024;card;37.72;Cappuccino
+09/06/2024;card;32.82;Americano with Milk
+09/06/2024;card;27.92;Americano
+10/06/2024;card;37.72;Cappuccino
+10/06/2024;card;37.72;Latte
+10/06/2024;card;37.72;Hot Chocolate
+10/06/2024;card;37.72;Hot Chocolate
+10/06/2024;card;37.72;Latte
+10/06/2024;card;37.72;Latte
+11/06/2024;card;32.82;Americano with Milk
+11/06/2024;card;37.72;Latte
+11/06/2024;card;37.72;Latte
+11/06/2024;card;37.72;Hot Chocolate
+11/06/2024;card;32.82;Americano with Milk
+11/06/2024;card;32.82;Americano with Milk
+12/06/2024;card;37.72;Hot Chocolate
+12/06/2024;card;37.72;Cappuccino
+12/06/2024;card;37.72;Latte
+12/06/2024;card;37.72;Latte
+12/06/2024;card;37.72;Hot Chocolate
+12/06/2024;card;32.82;Americano with Milk
+13/06/2024;card;27.92;Americano
+13/06/2024;card;37.72;Latte
+13/06/2024;card;32.82;Americano with Milk
+13/06/2024;card;27.92;Cortado
+13/06/2024;card;32.82;Americano with Milk
+13/06/2024;card;37.72;Hot Chocolate
+13/06/2024;card;37.72;Latte
+13/06/2024;card;32.82;Americano with Milk
+13/06/2024;card;23.02;Espresso
+13/06/2024;card;23.02;Espresso
+13/06/2024;card;32.82;Americano with Milk
+13/06/2024;card;32.82;Americano with Milk
+14/06/2024;card;27.92;Cortado
+14/06/2024;card;27.92;Americano
+14/06/2024;card;37.72;Latte
+14/06/2024;card;32.82;Americano with Milk
+15/06/2024;card;37.72;Cappuccino
+15/06/2024;card;37.72;Latte
+15/06/2024;card;32.82;Americano with Milk
+15/06/2024;card;23.02;Espresso
+15/06/2024;card;37.72;Cocoa
+15/06/2024;card;32.82;Americano with Milk
+15/06/2024;card;32.82;Americano with Milk
+15/06/2024;card;27.92;Americano
+16/06/2024;card;32.82;Americano with Milk
+16/06/2024;card;37.72;Latte
+16/06/2024;card;37.72;Hot Chocolate
+16/06/2024;card;37.72;Hot Chocolate
+16/06/2024;card;32.82;Americano with Milk
+16/06/2024;card;23.02;Espresso
+16/06/2024;card;32.82;Americano with Milk
+16/06/2024;card;32.82;Americano with Milk
+16/06/2024;card;37.72;Hot Chocolate
+16/06/2024;card;37.72;Hot Chocolate
+16/06/2024;card;32.82;Americano with Milk
+16/06/2024;card;32.82;Americano with Milk
+17/06/2024;card;27.92;Americano
+17/06/2024;card;27.92;Cortado
+17/06/2024;card;27.92;Cortado
+17/06/2024;card;37.72;Cappuccino
+17/06/2024;card;37.72;Cappuccino
+17/06/2024;card;37.72;Cappuccino
+17/06/2024;card;37.72;Cappuccino
+17/06/2024;card;27.92;Americano
+17/06/2024;card;27.92;Americano
+17/06/2024;card;32.82;Americano with Milk
+18/06/2024;card;27.92;Americano
+18/06/2024;card;37.72;Cappuccino
+18/06/2024;card;37.72;Cappuccino
+18/06/2024;card;37.72;Cappuccino
+18/06/2024;card;27.92;Cortado
+18/06/2024;card;32.82;Americano with Milk
+18/06/2024;card;32.82;Americano with Milk
+19/06/2024;card;37.72;Latte
+19/06/2024;card;27.92;Cortado
+19/06/2024;card;27.92;Americano
+19/06/2024;card;37.72;Latte
+19/06/2024;card;37.72;Cocoa
+19/06/2024;card;32.82;Americano with Milk
+19/06/2024;card;37.72;Cappuccino
+19/06/2024;card;37.72;Latte
+19/06/2024;card;32.82;Americano with Milk
+19/06/2024;card;37.72;Cappuccino
+19/06/2024;card;32.82;Americano with Milk
+20/06/2024;card;37.72;Latte
+20/06/2024;card;37.72;Latte
+20/06/2024;card;37.72;Latte
+20/06/2024;card;37.72;Latte
+20/06/2024;card;37.72;Latte
+20/06/2024;card;32.82;Americano with Milk
+21/06/2024;card;37.72;Latte
+21/06/2024;card;27.92;Americano
+21/06/2024;card;32.82;Americano with Milk
+21/06/2024;card;32.82;Americano with Milk
+21/06/2024;card;23.02;Espresso
+21/06/2024;card;37.72;Latte
+21/06/2024;card;37.72;Cappuccino
+21/06/2024;card;37.72;Cappuccino
+21/06/2024;card;37.72;Cappuccino
+21/06/2024;card;37.72;Cappuccino
+21/06/2024;card;27.92;Americano
+21/06/2024;card;32.82;Americano with Milk
+22/06/2024;card;27.92;Cortado
+22/06/2024;card;32.82;Americano with Milk
+22/06/2024;card;32.82;Americano with Milk
+22/06/2024;card;37.72;Latte
+22/06/2024;card;37.72;Cappuccino
+23/06/2024;card;32.82;Americano with Milk
+23/06/2024;card;32.82;Americano with Milk
+23/06/2024;card;37.72;Cappuccino
+23/06/2024;card;37.72;Latte
+23/06/2024;card;37.72;Cappuccino
+24/06/2024;card;32.82;Americano with Milk
+24/06/2024;card;37.72;Cappuccino
+24/06/2024;card;37.72;Cappuccino
+24/06/2024;card;37.72;Latte
+24/06/2024;card;37.72;Cappuccino
+24/06/2024;card;37.72;Cappuccino
+25/06/2024;card;37.72;Latte
+25/06/2024;card;32.82;Americano with Milk
+25/06/2024;card;32.82;Americano with Milk
+25/06/2024;card;37.72;Cappuccino
+26/06/2024;card;37.72;Latte
+26/06/2024;card;23.02;Espresso
+26/06/2024;card;27.92;Americano
+26/06/2024;card;37.72;Latte
+26/06/2024;card;37.72;Cappuccino
+26/06/2024;card;32.82;Americano with Milk
+27/06/2024;card;32.82;Americano with Milk
+27/06/2024;card;27.92;Cortado
+27/06/2024;card;32.82;Americano with Milk
+27/06/2024;card;37.72;Cappuccino
+28/06/2024;card;27.92;Cortado
+28/06/2024;card;23.02;Espresso
+28/06/2024;card;32.82;Americano with Milk
+28/06/2024;card;37.72;Latte
+28/06/2024;card;37.72;Cappuccino
+29/06/2024;card;32.82;Americano with Milk
+29/06/2024;card;32.82;Americano with Milk
+29/06/2024;card;32.82;Americano with Milk
+29/06/2024;card;37.72;Cappuccino
+29/06/2024;card;37.72;Cappuccino
+29/06/2024;card;37.72;Cappuccino
+29/06/2024;card;37.72;Hot Chocolate
+29/06/2024;card;37.72;Latte
+30/06/2024;card;37.72;Latte
+30/06/2024;card;23.02;Espresso
+30/06/2024;card;37.72;Hot Chocolate
+30/06/2024;card;32.82;Americano with Milk
+01/07/2024;card;23.02;Espresso
+01/07/2024;card;37.72;Cappuccino
+01/07/2024;card;37.72;Cappuccino
+02/07/2024;card;32.82;Americano with Milk
+02/07/2024;card;27.92;Americano
+02/07/2024;card;37.72;Latte
+02/07/2024;card;27.92;Americano
+02/07/2024;card;32.82;Americano with Milk
+02/07/2024;card;32.82;Americano with Milk
+03/07/2024;card;32.82;Americano with Milk
+03/07/2024;card;37.72;Cappuccino
+03/07/2024;card;37.72;Cappuccino
+03/07/2024;card;32.82;Americano with Milk
+03/07/2024;card;32.82;Americano with Milk
+03/07/2024;card;37.72;Latte
+03/07/2024;card;23.02;Espresso
+03/07/2024;card;37.72;Cappuccino
+03/07/2024;card;37.72;Latte
+04/07/2024;card;32.82;Americano with Milk
+04/07/2024;card;27.92;Americano
+05/07/2024;card;37.72;Cocoa
+05/07/2024;card;32.82;Americano with Milk
+05/07/2024;card;32.82;Americano with Milk
+05/07/2024;card;23.02;Espresso
+05/07/2024;card;27.92;Americano
+05/07/2024;card;23.02;Espresso
+05/07/2024;card;27.92;Americano
+05/07/2024;card;27.92;Americano
+05/07/2024;card;37.72;Cappuccino
+05/07/2024;card;32.82;Americano with Milk
+06/07/2024;card;37.72;Latte
+06/07/2024;card;32.82;Latte
+06/07/2024;card;32.82;Latte
+06/07/2024;card;32.82;Latte
+06/07/2024;card;27.92;Americano with Milk
+07/07/2024;card;32.82;Cappuccino
+07/07/2024;card;27.92;Americano with Milk
+07/07/2024;card;27.92;Americano with Milk
+07/07/2024;card;32.82;Cappuccino
+07/07/2024;card;32.82;Cappuccino
+07/07/2024;card;32.82;Hot Chocolate
+07/07/2024;card;32.82;Cocoa
+07/07/2024;card;32.82;Latte
+07/07/2024;card;32.82;Cappuccino
+07/07/2024;card;32.82;Hot Chocolate
+07/07/2024;card;27.92;Americano with Milk
+08/07/2024;card;32.82;Latte
+08/07/2024;card;23.02;Americano
+08/07/2024;card;23.02;Americano
+08/07/2024;card;27.92;Americano with Milk
+08/07/2024;card;32.82;Latte
+09/07/2024;card;27.92;Americano with Milk
+09/07/2024;card;27.92;Americano with Milk
+09/07/2024;card;27.92;Americano with Milk
+09/07/2024;card;32.82;Cappuccino
+09/07/2024;card;27.92;Americano with Milk
+10/07/2024;card;23.02;Americano
+10/07/2024;card;27.92;Americano with Milk
+10/07/2024;card;32.82;Latte
+11/07/2024;card;32.82;Hot Chocolate
+11/07/2024;card;27.92;Americano with Milk
+11/07/2024;card;32.82;Latte
+11/07/2024;card;23.02;Americano
+12/07/2024;card;23.02;Cortado
+12/07/2024;card;32.82;Hot Chocolate
+12/07/2024;card;32.82;Hot Chocolate
+12/07/2024;card;32.82;Hot Chocolate
+12/07/2024;card;32.82;Hot Chocolate
+13/07/2024;card;32.82;Latte
+13/07/2024;card;32.82;Latte
+14/07/2024;card;23.02;Americano
+14/07/2024;card;27.92;Americano with Milk
+14/07/2024;card;32.82;Cappuccino
+14/07/2024;card;32.82;Latte
+14/07/2024;card;23.02;Americano
+14/07/2024;card;32.82;Latte
+15/07/2024;card;32.82;Cappuccino
+16/07/2024;card;27.92;Americano with Milk
+16/07/2024;card;32.82;Hot Chocolate
+17/07/2024;card;27.92;Americano with Milk
+18/07/2024;card;27.92;Americano with Milk
+18/07/2024;card;18.12;Espresso
+18/07/2024;card;23.02;Americano
+18/07/2024;card;23.02;Americano
+18/07/2024;card;23.02;Cortado
+18/07/2024;card;32.82;Latte
+18/07/2024;card;32.82;Cappuccino
+18/07/2024;card;32.82;Latte
+18/07/2024;card;32.82;Hot Chocolate
+18/07/2024;card;32.82;Latte
+18/07/2024;card;32.82;Latte
+19/07/2024;card;23.02;Americano
+19/07/2024;card;27.92;Americano with Milk
+19/07/2024;card;32.82;Latte
+19/07/2024;card;27.92;Americano with Milk
+19/07/2024;card;32.82;Latte
+19/07/2024;card;32.82;Cocoa
+19/07/2024;card;32.82;Latte
+19/07/2024;card;32.82;Latte
+20/07/2024;card;23.02;Americano
+20/07/2024;card;32.82;Latte
+20/07/2024;card;23.02;Americano
+20/07/2024;card;32.82;Latte
+20/07/2024;card;32.82;Latte
+20/07/2024;card;23.02;Americano
+20/07/2024;card;32.82;Latte
+21/07/2024;card;32.82;Cocoa
+21/07/2024;card;32.82;Cappuccino
+21/07/2024;card;23.02;Cortado
+21/07/2024;card;32.82;Latte
+22/07/2024;card;23.02;Americano
+22/07/2024;card;23.02;Americano
+22/07/2024;card;27.92;Americano with Milk
+22/07/2024;card;32.82;Latte
+23/07/2024;card;32.82;Latte
+23/07/2024;card;23.02;Americano
+23/07/2024;card;27.92;Americano with Milk
+23/07/2024;card;32.82;Cocoa
+23/07/2024;card;32.82;Latte
+23/07/2024;card;23.02;Americano
+23/07/2024;card;27.92;Americano with Milk
+23/07/2024;card;27.92;Americano with Milk
+23/07/2024;card;32.82;Latte
+23/07/2024;card;32.82;Latte
+23/07/2024;card;23.02;Americano
+23/07/2024;card;23.02;Americano
+24/07/2024;card;27.92;Americano with Milk
+24/07/2024;card;27.92;Americano with Milk
+24/07/2024;card;18.12;Espresso
+24/07/2024;card;32.82;Cappuccino
+24/07/2024;card;32.82;Latte
+24/07/2024;card;18.12;Espresso
+24/07/2024;card;32.82;Latte
+24/07/2024;card;32.82;Cappuccino
+24/07/2024;card;32.82;Cappuccino
+24/07/2024;card;27.92;Americano with Milk
+24/07/2024;card;23.02;Americano
+24/07/2024;card;23.02;Americano
+25/07/2024;card;23.02;Americano
+25/07/2024;card;32.82;Latte
+25/07/2024;card;27.92;Americano with Milk
+25/07/2024;card;23.02;Americano
+25/07/2024;card;32.82;Cappuccino
+25/07/2024;card;32.82;Cappuccino
+25/07/2024;card;23.02;Cortado
+25/07/2024;card;18.12;Espresso
+25/07/2024;card;23.02;Cortado
+25/07/2024;card;32.82;Cocoa
+26/07/2024;card;32.82;Latte
+26/07/2024;card;27.92;Americano with Milk
+26/07/2024;card;18.12;Espresso
+26/07/2024;card;23.02;Cortado
+26/07/2024;card;23.02;Cortado
+26/07/2024;card;32.82;Latte
+26/07/2024;card;32.82;Latte
+26/07/2024;card;27.92;Americano with Milk
+26/07/2024;card;27.92;Americano with Milk
+26/07/2024;card;32.82;Cappuccino
+26/07/2024;card;32.82;Cappuccino
+26/07/2024;card;32.82;Latte
+26/07/2024;card;23.02;Americano
+26/07/2024;card;32.82;Cappuccino
+26/07/2024;card;32.82;Latte
+26/07/2024;card;27.92;Americano with Milk
+27/07/2024;card;32.82;Cappuccino
+27/07/2024;card;27.92;Americano with Milk
+27/07/2024;card;27.92;Americano with Milk
+27/07/2024;card;18.12;Espresso
+27/07/2024;card;27.92;Americano with Milk
+27/07/2024;card;18.12;Espresso
+27/07/2024;card;32.82;Latte
+27/07/2024;card;32.82;Cappuccino
+27/07/2024;card;32.82;Cappuccino
+27/07/2024;card;27.92;Americano with Milk
+27/07/2024;card;27.92;Americano with Milk
+27/07/2024;card;32.82;Latte
+27/07/2024;card;32.82;Cappuccino
+28/07/2024;card;18.12;Espresso
+28/07/2024;card;27.92;Americano with Milk
+28/07/2024;card;32.82;Latte
+29/07/2024;card;32.82;Latte
+29/07/2024;card;23.02;Americano
+29/07/2024;card;27.92;Americano with Milk
+29/07/2024;card;23.02;Americano
+29/07/2024;card;27.92;Americano with Milk
+29/07/2024;card;32.82;Cappuccino
+29/07/2024;card;32.82;Hot Chocolate
+29/07/2024;card;32.82;Hot Chocolate
+29/07/2024;card;32.82;Cappuccino
+29/07/2024;card;23.02;Americano
+29/07/2024;card;32.82;Cocoa
+30/07/2024;card;27.92;Americano with Milk
+30/07/2024;card;23.02;Cortado
+30/07/2024;card;32.82;Cappuccino
+30/07/2024;card;27.92;Americano with Milk
+30/07/2024;card;23.02;Cortado
+30/07/2024;card;27.92;Americano with Milk
+30/07/2024;card;32.82;Latte
+30/07/2024;card;23.02;Americano
+30/07/2024;card;18.12;Espresso
+30/07/2024;card;27.92;Americano with Milk
+30/07/2024;card;27.92;Americano with Milk
+30/07/2024;card;27.92;Americano with Milk
+30/07/2024;card;27.92;Americano with Milk
+30/07/2024;card;32.82;Latte
+30/07/2024;card;27.92;Americano with Milk
+30/07/2024;card;23.02;Cortado
+30/07/2024;card;27.92;Americano with Milk
+30/07/2024;card;18.12;Espresso
+30/07/2024;card;27.92;Americano with Milk
+30/07/2024;card;27.92;Americano with Milk
+30/07/2024;card;27.92;Americano with Milk
+30/07/2024;card;32.82;Latte
+30/07/2024;card;23.02;Americano
+30/07/2024;card;32.82;Cappuccino
+31/07/2024;card;27.92;Americano with Milk
+31/07/2024;card;27.92;Americano with Milk
+31/07/2024;card;27.92;Americano with Milk
+31/07/2024;card;23.02;Americano
+31/07/2024;card;23.02;Americano
+31/07/2024;card;27.92;Americano with Milk
+31/07/2024;card;32.82;Cocoa
+31/07/2024;card;32.82;Latte
+31/07/2024;card;27.92;Americano with Milk
+31/07/2024;card;23.02;Cortado
+31/07/2024;card;32.82;Latte
+31/07/2024;card;23.02;Cortado
+31/07/2024;card;32.82;Latte
+31/07/2024;card;32.82;Cocoa
+31/07/2024;card;23.02;Cortado
+31/07/2024;card;32.82;Latte
+31/07/2024;card;32.82;Cappuccino
+31/07/2024;card;23.02;Cortado
+31/07/2024;card;27.92;Americano with Milk
+31/07/2024;card;32.82;Latte
+31/07/2024;card;32.82;Latte
+31/07/2024;card;32.82;Latte
+01/08/2024;card;27.92;Americano with Milk
+01/08/2024;card;27.92;Americano with Milk
+01/08/2024;card;27.92;Americano with Milk
+01/08/2024;card;27.92;Americano with Milk
+01/08/2024;card;23.02;Cortado
+01/08/2024;card;32.82;Cappuccino
+01/08/2024;card;32.82;Cappuccino
+01/08/2024;card;27.92;Americano with Milk
+01/08/2024;card;27.92;Americano with Milk
+01/08/2024;card;23.02;Americano
+01/08/2024;card;23.02;Americano
+01/08/2024;card;32.82;Cappuccino
+02/08/2024;card;27.92;Americano with Milk
+02/08/2024;card;27.92;Americano with Milk
+02/08/2024;card;23.02;Cortado
+02/08/2024;card;27.92;Americano with Milk
+02/08/2024;card;32.82;Latte
+03/08/2024;card;27.92;Americano with Milk
+03/08/2024;card;27.92;Americano with Milk
+03/08/2024;card;27.92;Americano with Milk
+03/08/2024;card;27.92;Americano with Milk
+03/08/2024;card;23.02;Cortado
+03/08/2024;card;23.02;Cortado
+03/08/2024;card;18.12;Espresso
+03/08/2024;card;27.92;Americano with Milk
+03/08/2024;card;27.92;Americano with Milk
+03/08/2024;card;27.92;Americano with Milk
+03/08/2024;card;32.82;Cappuccino
+03/08/2024;card;32.82;Latte
+03/08/2024;card;32.82;Latte
+04/08/2024;card;32.82;Cappuccino
+04/08/2024;card;27.92;Americano with Milk
+04/08/2024;card;32.82;Cappuccino
+04/08/2024;card;27.92;Americano with Milk
+04/08/2024;card;32.82;Cappuccino
+04/08/2024;card;32.82;Cappuccino
+05/08/2024;card;23.02;Cortado
+05/08/2024;card;27.92;Americano with Milk
+05/08/2024;card;23.02;Cortado
+05/08/2024;card;32.82;Cappuccino
+05/08/2024;card;32.82;Latte
+05/08/2024;card;32.82;Latte
+05/08/2024;card;32.82;Latte
+05/08/2024;card;27.92;Americano with Milk
+05/08/2024;card;32.82;Latte
+05/08/2024;card;32.82;Latte
+05/08/2024;card;32.82;Cocoa
+05/08/2024;card;32.82;Cocoa
+05/08/2024;card;27.92;Americano with Milk
+06/08/2024;card;23.02;Cortado
+06/08/2024;card;32.82;Hot Chocolate
+06/08/2024;card;32.82;Cappuccino
+06/08/2024;card;32.82;Latte
+06/08/2024;card;32.82;Cocoa
+06/08/2024;card;32.82;Latte
+06/08/2024;card;27.92;Americano with Milk
+06/08/2024;card;32.82;Latte
+07/08/2024;card;27.92;Americano with Milk
+07/08/2024;card;23.02;Americano
+07/08/2024;card;23.02;Americano
+07/08/2024;card;18.12;Espresso
+07/08/2024;card;23.02;Americano
+07/08/2024;card;32.82;Latte
+07/08/2024;card;32.82;Cocoa
+07/08/2024;card;32.82;Cappuccino
+07/08/2024;card;32.82;Latte
+07/08/2024;card;32.82;Latte
+08/08/2024;card;18.12;Espresso
+08/08/2024;card;23.02;Cortado
+08/08/2024;card;27.92;Americano with Milk
+08/08/2024;card;23.02;Cortado
+08/08/2024;card;23.02;Cortado
+08/08/2024;card;32.82;Cappuccino
+08/08/2024;card;32.82;Cappuccino
+08/08/2024;card;27.92;Americano with Milk
+09/08/2024;card;32.82;Latte
+09/08/2024;card;23.02;Americano
+09/08/2024;card;23.02;Cortado
+09/08/2024;card;27.92;Americano with Milk
+09/08/2024;card;32.82;Latte
+09/08/2024;card;23.02;Americano
+09/08/2024;card;23.02;Americano
+09/08/2024;card;32.82;Hot Chocolate
+10/08/2024;card;32.82;Cappuccino
+10/08/2024;card;27.92;Americano with Milk
+10/08/2024;card;23.02;Cortado
+10/08/2024;card;23.02;Cortado
+10/08/2024;card;23.02;Americano
+10/08/2024;card;32.82;Latte
+10/08/2024;card;27.92;Americano with Milk
+10/08/2024;card;32.82;Latte
+10/08/2024;card;32.82;Cocoa
+10/08/2024;card;32.82;Cocoa
+10/08/2024;card;32.82;Cocoa
+11/08/2024;card;32.82;Latte
+11/08/2024;card;32.82;Latte
+11/08/2024;card;27.92;Americano with Milk
+11/08/2024;card;32.82;Cappuccino
+11/08/2024;card;27.92;Americano with Milk
+11/08/2024;card;23.02;Cortado
+11/08/2024;card;32.82;Latte
+11/08/2024;card;27.92;Americano with Milk
+11/08/2024;card;32.82;Cocoa
+11/08/2024;card;32.82;Cappuccino
+11/08/2024;card;18.12;Espresso
+11/08/2024;card;23.02;Cortado
+11/08/2024;card;32.82;Latte
+11/08/2024;card;32.82;Latte
+11/08/2024;card;32.82;Cappuccino
+12/08/2024;card;32.82;Hot Chocolate
+12/08/2024;card;27.92;Americano with Milk
+12/08/2024;card;23.02;Americano
+12/08/2024;card;32.82;Latte
+12/08/2024;card;32.82;Latte
+12/08/2024;card;18.12;Espresso
+12/08/2024;card;27.92;Americano with Milk
+12/08/2024;card;27.92;Americano with Milk
+12/08/2024;card;27.92;Americano with Milk
+12/08/2024;card;27.92;Americano with Milk
+12/08/2024;card;32.82;Latte
+12/08/2024;card;32.82;Cappuccino
+12/08/2024;card;32.82;Cappuccino
+13/08/2024;card;27.92;Americano with Milk
+13/08/2024;card;27.92;Americano with Milk
+13/08/2024;card;27.92;Americano with Milk
+13/08/2024;card;23.02;Cortado
+13/08/2024;card;32.82;Latte
+13/08/2024;card;27.92;Americano with Milk
+13/08/2024;card;32.82;Latte
+13/08/2024;card;32.82;Cappuccino
+13/08/2024;card;27.92;Americano with Milk
+13/08/2024;card;32.82;Latte
+13/08/2024;card;32.82;Cocoa
+13/08/2024;card;32.82;Cappuccino
+13/08/2024;card;23.02;Cortado
+14/08/2024;card;32.82;Latte
+14/08/2024;card;32.82;Cappuccino
+14/08/2024;card;23.02;Cortado
+14/08/2024;card;18.12;Espresso
+14/08/2024;card;23.02;Americano
+14/08/2024;card;23.02;Americano
+14/08/2024;card;32.82;Latte
+14/08/2024;card;23.02;Americano
+14/08/2024;card;23.02;Cortado
+14/08/2024;card;27.92;Americano with Milk
+14/08/2024;card;32.82;Latte
+14/08/2024;card;23.02;Cortado
+14/08/2024;card;32.82;Latte
+15/08/2024;card;23.02;Cortado
+15/08/2024;card;32.82;Cappuccino
+15/08/2024;card;32.82;Hot Chocolate
+15/08/2024;card;32.82;Latte
+15/08/2024;card;32.82;Latte
+15/08/2024;card;32.82;Latte
+15/08/2024;card;23.02;Americano
+15/08/2024;card;18.12;Espresso
+15/08/2024;card;27.92;Americano with Milk
+15/08/2024;card;32.82;Hot Chocolate
+15/08/2024;card;27.92;Americano with Milk
+15/08/2024;card;27.92;Americano with Milk
+15/08/2024;card;23.02;Americano
+15/08/2024;card;32.82;Cappuccino
+15/08/2024;card;18.12;Espresso
+15/08/2024;card;27.92;Americano with Milk
+16/08/2024;card;32.82;Latte
+16/08/2024;card;23.02;Americano
+16/08/2024;card;27.92;Americano with Milk
+16/08/2024;card;18.12;Espresso
+16/08/2024;card;18.12;Espresso
+17/08/2024;card;27.92;Americano with Milk
+17/08/2024;card;32.82;Cappuccino
+17/08/2024;card;27.92;Americano with Milk
+17/08/2024;card;23.02;Cortado
+17/08/2024;card;23.02;Cortado
+17/08/2024;card;27.92;Americano with Milk
+17/08/2024;card;23.02;Cortado
+17/08/2024;card;32.82;Latte
+17/08/2024;card;32.82;Cappuccino
+17/08/2024;card;27.92;Americano with Milk
+17/08/2024;card;32.82;Latte
+18/08/2024;card;32.82;Cappuccino
+18/08/2024;card;32.82;Cappuccino
+18/08/2024;card;23.02;Cortado
+18/08/2024;card;27.92;Americano with Milk
+18/08/2024;card;32.82;Cappuccino
+18/08/2024;card;27.92;Americano with Milk
+18/08/2024;card;27.92;Americano with Milk
+18/08/2024;card;27.92;Americano with Milk
+18/08/2024;card;23.02;Americano
+18/08/2024;card;23.02;Americano
+19/08/2024;card;27.92;Americano with Milk
+19/08/2024;card;27.92;Americano with Milk
+19/08/2024;card;32.82;Latte
+19/08/2024;card;32.82;Cocoa
+20/08/2024;card;23.02;Cortado
+20/08/2024;card;32.82;Latte
+20/08/2024;card;18.12;Espresso
+20/08/2024;card;23.02;Cortado
+20/08/2024;card;27.92;Americano with Milk
+20/08/2024;card;23.02;Americano
+20/08/2024;card;23.02;Americano
+20/08/2024;card;23.02;Americano
+20/08/2024;card;32.82;Latte
+20/08/2024;card;32.82;Latte
+20/08/2024;card;32.82;Latte
+20/08/2024;card;32.82;Latte
+20/08/2024;card;32.82;Latte
+21/08/2024;card;27.92;Americano with Milk
+21/08/2024;card;23.02;Cortado
+21/08/2024;card;23.02;Americano
+21/08/2024;card;27.92;Americano with Milk
+21/08/2024;card;23.02;Cortado
+21/08/2024;card;32.82;Latte
+21/08/2024;card;32.82;Latte
+22/08/2024;card;23.02;Cortado
+22/08/2024;card;27.92;Americano with Milk
+22/08/2024;card;27.92;Americano with Milk
+22/08/2024;card;32.82;Latte
+22/08/2024;card;32.82;Latte
+22/08/2024;card;32.82;Cappuccino
+22/08/2024;card;23.02;Americano
+23/08/2024;card;32.82;Latte
+23/08/2024;card;23.02;Cortado
+23/08/2024;card;32.82;Latte
+23/08/2024;card;23.02;Americano
+23/08/2024;card;23.02;Americano
+23/08/2024;card;27.92;Americano with Milk
+23/08/2024;card;32.82;Cocoa
+23/08/2024;card;23.02;Americano
+23/08/2024;card;23.02;Cortado
+23/08/2024;card;32.82;Hot Chocolate
+23/08/2024;card;23.02;Americano
+23/08/2024;card;23.02;Americano
+23/08/2024;card;32.82;Latte
+24/08/2024;card;23.02;Cortado
+24/08/2024;card;23.02;Cortado
+24/08/2024;card;23.02;Cortado
+24/08/2024;card;18.12;Espresso
+24/08/2024;card;18.12;Espresso
+24/08/2024;card;23.02;Americano
+25/08/2024;card;23.02;Cortado
+25/08/2024;card;23.02;Americano
+25/08/2024;card;23.02;Americano
+25/08/2024;card;32.82;Cappuccino
+25/08/2024;card;32.82;Cappuccino
+25/08/2024;card;32.82;Latte
+26/08/2024;card;23.02;Cortado
+26/08/2024;card;23.02;Americano
+26/08/2024;card;23.02;Americano
+26/08/2024;card;27.92;Americano with Milk
+26/08/2024;card;32.82;Latte
+26/08/2024;card;32.82;Cappuccino
+26/08/2024;card;23.02;Americano
+26/08/2024;card;23.02;Americano
+26/08/2024;card;27.92;Americano with Milk
+26/08/2024;card;32.82;Latte
+26/08/2024;card;27.92;Americano with Milk
+27/08/2024;card;32.82;Latte
+28/08/2024;card;27.92;Americano with Milk
+28/08/2024;card;32.82;Cappuccino
+28/08/2024;card;23.02;Americano
+28/08/2024;card;27.92;Americano with Milk
+29/08/2024;card;23.02;Americano
+30/08/2024;card;32.82;Latte
+30/08/2024;card;27.92;Americano with Milk
+30/08/2024;card;27.92;Americano with Milk
+31/08/2024;card;23.02;Cortado
+31/08/2024;card;27.92;Americano with Milk
+31/08/2024;card;18.12;Espresso
+31/08/2024;card;27.92;Americano with Milk
+31/08/2024;card;23.02;Cortado
+31/08/2024;card;23.02;Cortado
+01/09/2024;card;23.02;Cortado
+01/09/2024;card;32.82;Cappuccino
+01/09/2024;card;27.92;Americano with Milk
+01/09/2024;card;23.02;Americano
+01/09/2024;card;27.92;Americano with Milk
+01/09/2024;card;32.82;Latte
+01/09/2024;card;27.92;Americano with Milk
+01/09/2024;card;32.82;Latte
+01/09/2024;card;32.82;Latte
+01/09/2024;card;32.82;Latte
+02/09/2024;card;32.82;Latte
+02/09/2024;card;27.92;Americano with Milk
+02/09/2024;card;32.82;Latte
+02/09/2024;card;27.92;Americano with Milk
+02/09/2024;card;32.82;Cappuccino
+02/09/2024;card;32.82;Cocoa
+02/09/2024;card;23.02;Americano
+02/09/2024;card;23.02;Americano
+03/09/2024;card;32.82;Cocoa
+03/09/2024;card;32.82;Cappuccino
+03/09/2024;card;32.82;Latte
+03/09/2024;card;27.92;Americano with Milk
+03/09/2024;card;32.82;Cappuccino
+03/09/2024;card;32.82;Cocoa
+03/09/2024;card;32.82;Cocoa
+03/09/2024;card;27.92;Americano with Milk
+03/09/2024;card;27.92;Americano with Milk
+03/09/2024;card;32.82;Latte
+03/09/2024;card;32.82;Cocoa
+03/09/2024;card;23.02;Cortado
+03/09/2024;card;27.92;Americano with Milk
+03/09/2024;card;27.92;Americano with Milk
+03/09/2024;card;27.92;Americano with Milk
+03/09/2024;card;32.82;Latte
+03/09/2024;card;27.92;Americano with Milk
+04/09/2024;card;27.92;Americano with Milk
+04/09/2024;card;32.82;Latte
+04/09/2024;card;23.02;Americano
+04/09/2024;card;27.92;Americano with Milk
+04/09/2024;card;32.82;Latte
+04/09/2024;card;32.82;Latte
+04/09/2024;card;27.92;Americano with Milk
+04/09/2024;card;32.82;Cappuccino
+04/09/2024;card;27.92;Americano with Milk
+04/09/2024;card;32.82;Latte
+05/09/2024;card;27.92;Americano with Milk
+05/09/2024;card;27.92;Americano with Milk
+05/09/2024;card;23.02;Americano
+05/09/2024;card;32.82;Latte
+05/09/2024;card;32.82;Latte
+05/09/2024;card;23.02;Americano
+05/09/2024;card;27.92;Americano with Milk
+05/09/2024;card;32.82;Cappuccino
+05/09/2024;card;32.82;Cappuccino
+05/09/2024;card;32.82;Cappuccino
+05/09/2024;card;23.02;Americano
+05/09/2024;card;32.82;Cappuccino
+05/09/2024;card;27.92;Americano with Milk
+05/09/2024;card;27.92;Americano with Milk
+06/09/2024;card;32.82;Cappuccino
+06/09/2024;card;32.82;Latte
+06/09/2024;card;23.02;Americano
+06/09/2024;card;18.12;Espresso
+06/09/2024;card;32.82;Latte
+06/09/2024;card;32.82;Hot Chocolate
+06/09/2024;card;18.12;Espresso
+06/09/2024;card;18.12;Espresso
+06/09/2024;card;32.82;Latte
+06/09/2024;card;32.82;Latte
+07/09/2024;card;32.82;Latte
+07/09/2024;card;23.02;Cortado
+07/09/2024;card;23.02;Cortado
+07/09/2024;card;23.02;Cortado
+07/09/2024;card;27.92;Americano with Milk
+07/09/2024;card;27.92;Americano with Milk
+07/09/2024;card;23.02;Cortado
+07/09/2024;card;23.02;Americano
+07/09/2024;card;18.12;Espresso
+07/09/2024;card;18.12;Espresso
+07/09/2024;card;32.82;Latte
+07/09/2024;card;27.92;Americano with Milk
+07/09/2024;card;23.02;Americano
+07/09/2024;card;18.12;Espresso
+07/09/2024;card;32.82;Latte
+07/09/2024;card;23.02;Americano
+07/09/2024;card;18.12;Espresso
+07/09/2024;card;32.82;Cocoa
+07/09/2024;card;32.82;Latte
+07/09/2024;card;32.82;Latte
+07/09/2024;card;32.82;Latte
+07/09/2024;card;32.82;Latte
+08/09/2024;card;23.02;Cortado
+08/09/2024;card;23.02;Cortado
+08/09/2024;card;23.02;Cortado
+08/09/2024;card;23.02;Cortado
+08/09/2024;card;23.02;Cortado
+08/09/2024;card;23.02;Americano
+09/09/2024;card;32.82;Latte
+09/09/2024;card;32.82;Cappuccino
+09/09/2024;card;27.92;Americano with Milk
+09/09/2024;card;32.82;Latte
+09/09/2024;card;32.82;Latte
+09/09/2024;card;32.82;Hot Chocolate
+09/09/2024;card;32.82;Latte
+09/09/2024;card;27.92;Americano with Milk
+09/09/2024;card;27.92;Americano with Milk
+09/09/2024;card;32.82;Latte
+09/09/2024;card;18.12;Espresso
+09/09/2024;card;32.82;Latte
+09/09/2024;card;23.02;Americano
+09/09/2024;card;32.82;Latte
+09/09/2024;card;32.82;Latte
+09/09/2024;card;32.82;Cappuccino
+09/09/2024;card;32.82;Latte
+10/09/2024;card;32.82;Hot Chocolate
+10/09/2024;card;32.82;Cappuccino
+10/09/2024;card;23.02;Cortado
+10/09/2024;card;23.02;Cortado
+10/09/2024;card;32.82;Cappuccino
+10/09/2024;card;27.92;Americano with Milk
+10/09/2024;card;32.82;Latte
+10/09/2024;card;32.82;Latte
+10/09/2024;card;27.92;Americano with Milk
+10/09/2024;card;23.02;Americano
+11/09/2024;card;32.82;Latte
+11/09/2024;card;27.92;Americano with Milk
+11/09/2024;card;32.82;Latte
+11/09/2024;card;32.82;Cappuccino
+11/09/2024;card;27.92;Americano with Milk
+11/09/2024;card;32.82;Latte
+11/09/2024;card;32.82;Latte
+11/09/2024;card;23.02;Cortado
+12/09/2024;card;18.12;Espresso
+12/09/2024;card;27.92;Americano with Milk
+12/09/2024;card;27.92;Americano with Milk
+12/09/2024;card;32.82;Cappuccino
+12/09/2024;card;23.02;Cortado
+12/09/2024;card;23.02;Cortado
+12/09/2024;card;23.02;Cortado
+12/09/2024;card;23.02;Cortado
+12/09/2024;card;32.82;Latte
+12/09/2024;card;23.02;Americano
+12/09/2024;card;32.82;Cappuccino
+12/09/2024;card;23.02;Cortado
+13/09/2024;card;32.82;Latte
+13/09/2024;card;32.82;Latte
+13/09/2024;card;32.82;Latte
+13/09/2024;card;32.82;Latte
+13/09/2024;card;27.92;Americano with Milk
+13/09/2024;card;27.92;Americano with Milk
+14/09/2024;card;32.82;Cappuccino
+14/09/2024;card;32.82;Cappuccino
+15/09/2024;card;18.12;Espresso
+15/09/2024;card;27.92;Americano with Milk
+15/09/2024;card;23.02;Americano
+15/09/2024;card;23.02;Cortado
+15/09/2024;card;23.02;Cortado
+15/09/2024;card;32.82;Cappuccino
+16/09/2024;card;32.82;Latte
+16/09/2024;card;27.92;Americano with Milk
+16/09/2024;card;32.82;Latte
+16/09/2024;card;27.92;Americano with Milk
+16/09/2024;card;32.82;Latte
+16/09/2024;card;32.82;Latte
+16/09/2024;card;32.82;Latte
+16/09/2024;card;27.92;Americano with Milk
+16/09/2024;card;32.82;Latte
+16/09/2024;card;27.92;Americano with Milk
+16/09/2024;card;27.92;Americano with Milk
+17/09/2024;card;23.02;Cortado
+17/09/2024;card;32.82;Latte
+17/09/2024;card;27.92;Americano with Milk
+17/09/2024;card;23.02;Cortado
+17/09/2024;card;32.82;Cappuccino
+17/09/2024;card;27.92;Americano with Milk
+17/09/2024;card;27.92;Americano with Milk
+17/09/2024;card;18.12;Espresso
+17/09/2024;card;27.92;Americano with Milk
+17/09/2024;card;32.82;Latte
+17/09/2024;card;27.92;Americano with Milk
+17/09/2024;card;23.02;Cortado
+17/09/2024;card;32.82;Cappuccino
+17/09/2024;card;32.82;Latte
+17/09/2024;card;32.82;Hot Chocolate
+17/09/2024;card;27.92;Americano with Milk
+17/09/2024;card;27.92;Americano with Milk
+17/09/2024;card;32.82;Latte
+17/09/2024;card;27.92;Americano with Milk
+17/09/2024;card;27.92;Americano with Milk
+17/09/2024;card;27.92;Americano with Milk
+17/09/2024;card;32.82;Hot Chocolate
+17/09/2024;card;32.82;Hot Chocolate
+18/09/2024;card;32.82;Latte
+18/09/2024;card;32.82;Latte
+18/09/2024;card;27.92;Americano with Milk
+18/09/2024;card;27.92;Americano with Milk
+19/09/2024;card;27.92;Americano with Milk
+19/09/2024;card;23.02;Cortado
+19/09/2024;card;32.82;Latte
+19/09/2024;card;23.02;Americano
+19/09/2024;card;27.92;Americano with Milk
+19/09/2024;card;23.02;Cortado
+20/09/2024;card;27.92;Americano with Milk
+20/09/2024;card;27.92;Americano with Milk
+20/09/2024;card;27.92;Americano with Milk
+20/09/2024;card;32.82;Latte
+20/09/2024;card;23.02;Americano
+20/09/2024;card;27.92;Americano with Milk
+20/09/2024;card;27.92;Americano with Milk
+21/09/2024;card;32.82;Latte
+21/09/2024;card;32.82;Cocoa
+21/09/2024;card;23.02;Cortado
+21/09/2024;card;23.02;Cortado
+21/09/2024;card;32.82;Cappuccino
+21/09/2024;card;32.82;Latte
+21/09/2024;card;32.82;Latte
+21/09/2024;card;32.82;Latte
+21/09/2024;card;23.02;Americano
+21/09/2024;card;23.02;Americano
+21/09/2024;card;32.82;Latte
+21/09/2024;card;32.82;Latte
+21/09/2024;card;27.92;Americano with Milk
+21/09/2024;card;23.02;Americano
+21/09/2024;card;23.02;Americano
+22/09/2024;card;23.02;Americano
+22/09/2024;card;27.92;Americano with Milk
+22/09/2024;card;32.82;Latte
+22/09/2024;card;23.02;Cortado
+22/09/2024;card;23.02;Cortado
+22/09/2024;card;27.92;Americano with Milk
+22/09/2024;card;23.02;Americano
+22/09/2024;card;27.92;Americano with Milk
+22/09/2024;card;27.92;Americano with Milk
+22/09/2024;card;27.92;Americano with Milk
+22/09/2024;card;27.92;Americano with Milk
+22/09/2024;card;32.82;Latte
+22/09/2024;card;27.92;Americano with Milk
+22/09/2024;card;32.82;Cocoa
+22/09/2024;card;32.82;Latte
+22/09/2024;card;32.82;Cappuccino
+22/09/2024;card;27.92;Americano with Milk
+22/09/2024;card;27.92;Americano with Milk
+22/09/2024;card;27.92;Americano with Milk
+22/09/2024;card;27.92;Americano with Milk
+22/09/2024;card;32.82;Hot Chocolate
+22/09/2024;card;32.82;Hot Chocolate
+22/09/2024;card;23.02;Americano
+22/09/2024;card;27.92;Americano with Milk
+23/09/2024;card;27.92;Americano with Milk
+23/09/2024;card;23.02;Cortado
+23/09/2024;card;23.02;Americano
+23/09/2024;card;27.92;Americano with Milk
+23/09/2024;card;32.82;Cappuccino
+23/09/2024;card;23.02;Americano
+23/09/2024;card;32.82;Latte
+23/09/2024;card;32.82;Cappuccino
+23/09/2024;card;27.92;Americano with Milk
+23/09/2024;card;27.92;Americano with Milk
+24/09/2024;card;27.92;Americano with Milk
+24/09/2024;card;32.82;Latte
+24/09/2024;card;32.82;Latte
+24/09/2024;card;32.82;Latte
+24/09/2024;card;32.82;Latte
+24/09/2024;card;32.82;Latte
+24/09/2024;card;23.02;Cortado
+24/09/2024;card;32.82;Cappuccino
+24/09/2024;card;32.82;Latte
+24/09/2024;card;23.02;Americano
+24/09/2024;card;23.02;Americano
+24/09/2024;card;32.82;Hot Chocolate
+24/09/2024;card;32.82;Latte
+24/09/2024;card;27.92;Americano with Milk
+24/09/2024;card;27.92;Americano with Milk
+25/09/2024;card;32.82;Cappuccino
+25/09/2024;card;23.02;Cortado
+25/09/2024;card;27.92;Americano with Milk
+25/09/2024;card;32.82;Latte
+25/09/2024;card;27.92;Americano with Milk
+25/09/2024;card;27.92;Americano with Milk
+25/09/2024;card;27.92;Americano with Milk
+25/09/2024;card;27.92;Americano with Milk
+25/09/2024;card;23.02;Americano
+25/09/2024;card;27.92;Americano with Milk
+26/09/2024;card;32.82;Latte
+26/09/2024;card;27.92;Americano with Milk
+26/09/2024;card;18.12;Espresso
+26/09/2024;card;32.82;Cappuccino
+26/09/2024;card;32.82;Latte
+26/09/2024;card;32.82;Latte
+26/09/2024;card;32.82;Latte
+26/09/2024;card;23.02;Cortado
+26/09/2024;card;27.92;Americano with Milk
+27/09/2024;card;27.92;Americano with Milk
+27/09/2024;card;23.02;Cortado
+27/09/2024;card;32.82;Cappuccino
+27/09/2024;card;27.92;Americano with Milk
+27/09/2024;card;27.92;Americano with Milk
+27/09/2024;card;32.82;Cappuccino
+27/09/2024;card;32.82;Cappuccino
+27/09/2024;card;23.02;Americano
+27/09/2024;card;27.92;Americano with Milk
+27/09/2024;card;32.82;Latte
+27/09/2024;card;32.82;Latte
+27/09/2024;card;32.82;Cappuccino
+27/09/2024;card;32.82;Cappuccino
+27/09/2024;card;32.82;Cappuccino
+27/09/2024;card;32.82;Cappuccino
+27/09/2024;card;27.92;Americano with Milk
+28/09/2024;card;27.92;Americano with Milk
+28/09/2024;card;27.92;Americano with Milk
+28/09/2024;card;35.76;Latte
+28/09/2024;card;35.76;Latte
+28/09/2024;card;30.86;Americano with Milk
+28/09/2024;card;35.76;Latte
+28/09/2024;card;35.76;Latte
+28/09/2024;card;35.76;Cappuccino
+28/09/2024;card;35.76;Cocoa
+28/09/2024;card;25.96;Cortado
+28/09/2024;card;35.76;Hot Chocolate
+29/09/2024;card;25.96;Americano
+29/09/2024;card;35.76;Cappuccino
+29/09/2024;card;35.76;Cappuccino
+29/09/2024;card;35.76;Cappuccino
+29/09/2024;card;30.86;Americano with Milk
+29/09/2024;card;35.76;Latte
+29/09/2024;card;25.96;Cortado
+29/09/2024;card;35.76;Latte
+29/09/2024;card;35.76;Latte
+29/09/2024;card;35.76;Cappuccino
+29/09/2024;card;35.76;Latte
+30/09/2024;card;25.96;Cortado
+30/09/2024;card;25.96;Cortado
+30/09/2024;card;35.76;Hot Chocolate
+30/09/2024;card;30.86;Americano with Milk
+30/09/2024;card;25.96;Cortado
+30/09/2024;card;30.86;Americano with Milk
+30/09/2024;card;30.86;Americano with Milk
+30/09/2024;card;35.76;Latte
+30/09/2024;card;30.86;Americano with Milk
+30/09/2024;card;25.96;Cortado
+30/09/2024;card;35.76;Latte
+30/09/2024;card;30.86;Americano with Milk
+30/09/2024;card;30.86;Americano with Milk
+30/09/2024;card;30.86;Americano with Milk
+01/10/2024;card;35.76;Latte
+01/10/2024;card;30.86;Americano with Milk
+01/10/2024;card;30.86;Americano with Milk
+01/10/2024;card;30.86;Americano with Milk
+01/10/2024;card;30.86;Americano with Milk
+01/10/2024;card;30.86;Americano with Milk
+01/10/2024;card;30.86;Americano with Milk
+01/10/2024;card;25.96;Americano
+01/10/2024;card;30.86;Americano with Milk
+01/10/2024;card;35.76;Hot Chocolate
+01/10/2024;card;25.96;Americano
+01/10/2024;card;35.76;Latte
+01/10/2024;card;35.76;Latte
+01/10/2024;card;35.76;Hot Chocolate
+01/10/2024;card;35.76;Hot Chocolate
+02/10/2024;card;35.76;Latte
+02/10/2024;card;25.96;Cortado
+02/10/2024;card;30.86;Americano with Milk
+02/10/2024;card;35.76;Latte
+02/10/2024;card;30.86;Americano with Milk
+02/10/2024;card;35.76;Cappuccino
+02/10/2024;card;35.76;Cappuccino
+02/10/2024;card;35.76;Hot Chocolate
+02/10/2024;card;35.76;Hot Chocolate
+02/10/2024;card;35.76;Hot Chocolate
+02/10/2024;card;35.76;Hot Chocolate
+03/10/2024;card;35.76;Cocoa
+03/10/2024;card;30.86;Americano with Milk
+03/10/2024;card;25.96;Cortado
+03/10/2024;card;35.76;Hot Chocolate
+03/10/2024;card;35.76;Hot Chocolate
+03/10/2024;card;35.76;Hot Chocolate
+03/10/2024;card;35.76;Cappuccino
+03/10/2024;card;35.76;Hot Chocolate
+04/10/2024;card;25.96;Americano
+04/10/2024;card;25.96;Americano
+04/10/2024;card;30.86;Americano with Milk
+04/10/2024;card;25.96;Americano
+04/10/2024;card;25.96;Cortado
+04/10/2024;card;25.96;Cortado
+04/10/2024;card;35.76;Latte
+04/10/2024;card;35.76;Hot Chocolate
+04/10/2024;card;35.76;Cocoa
+05/10/2024;card;25.96;Cortado
+05/10/2024;card;25.96;Cortado
+05/10/2024;card;35.76;Cocoa
+05/10/2024;card;35.76;Cappuccino
+05/10/2024;card;25.96;Americano
+05/10/2024;card;25.96;Americano
+06/10/2024;card;25.96;Cortado
+06/10/2024;card;35.76;Cappuccino
+06/10/2024;card;25.96;Cortado
+06/10/2024;card;35.76;Latte
+06/10/2024;card;35.76;Latte
+06/10/2024;card;35.76;Cappuccino
+06/10/2024;card;30.86;Americano with Milk
+06/10/2024;card;25.96;Americano
+06/10/2024;card;35.76;Cappuccino
+06/10/2024;card;30.86;Americano with Milk
+06/10/2024;card;35.76;Latte
+06/10/2024;card;35.76;Cappuccino
+06/10/2024;card;35.76;Cappuccino
+06/10/2024;card;21.06;Espresso
+06/10/2024;card;30.86;Americano with Milk
+06/10/2024;card;35.76;Hot Chocolate
+06/10/2024;card;35.76;Hot Chocolate
+06/10/2024;card;35.76;Hot Chocolate
+06/10/2024;card;35.76;Hot Chocolate
+06/10/2024;card;35.76;Latte
+07/10/2024;card;35.76;Latte
+07/10/2024;card;35.76;Latte
+07/10/2024;card;30.86;Americano with Milk
+07/10/2024;card;35.76;Cocoa
+07/10/2024;card;35.76;Latte
+07/10/2024;card;30.86;Americano with Milk
+07/10/2024;card;25.96;Americano
+07/10/2024;card;25.96;Americano
+07/10/2024;card;35.76;Latte
+07/10/2024;card;35.76;Hot Chocolate
+07/10/2024;card;35.76;Hot Chocolate
+07/10/2024;card;35.76;Latte
+08/10/2024;card;35.76;Latte
+08/10/2024;card;30.86;Americano with Milk
+08/10/2024;card;25.96;Americano
+08/10/2024;card;35.76;Latte
+08/10/2024;card;35.76;Latte
+08/10/2024;card;25.96;Americano
+08/10/2024;card;25.96;Americano
+08/10/2024;card;35.76;Latte
+08/10/2024;card;35.76;Latte
+08/10/2024;card;35.76;Latte
+08/10/2024;card;35.76;Latte
+08/10/2024;card;25.96;Americano
+08/10/2024;card;30.86;Americano with Milk
+08/10/2024;card;35.76;Hot Chocolate
+08/10/2024;card;35.76;Cappuccino
+08/10/2024;card;35.76;Latte
+08/10/2024;card;30.86;Americano with Milk
+08/10/2024;card;30.86;Americano with Milk
+09/10/2024;card;35.76;Latte
+09/10/2024;card;30.86;Americano with Milk
+09/10/2024;card;30.86;Americano with Milk
+09/10/2024;card;35.76;Latte
+09/10/2024;card;21.06;Espresso
+09/10/2024;card;25.96;Americano
+09/10/2024;card;35.76;Latte
+09/10/2024;card;30.86;Americano with Milk
+09/10/2024;card;35.76;Cappuccino
+09/10/2024;card;25.96;Americano
+09/10/2024;card;21.06;Espresso
+09/10/2024;card;35.76;Cappuccino
+10/10/2024;card;25.96;Americano
+10/10/2024;card;30.86;Americano with Milk
+10/10/2024;card;35.76;Hot Chocolate
+10/10/2024;card;35.76;Latte
+10/10/2024;card;25.96;Cortado
+10/10/2024;card;25.96;Cortado
+10/10/2024;card;35.76;Latte
+10/10/2024;card;35.76;Latte
+10/10/2024;card;35.76;Cappuccino
+10/10/2024;card;35.76;Latte
+10/10/2024;card;25.96;Americano
+10/10/2024;card;30.86;Americano with Milk
+10/10/2024;card;35.76;Latte
+10/10/2024;card;35.76;Hot Chocolate
+10/10/2024;card;35.76;Hot Chocolate
+11/10/2024;card;30.86;Americano with Milk
+11/10/2024;card;35.76;Latte
+11/10/2024;card;25.96;Cortado
+11/10/2024;card;35.76;Latte
+11/10/2024;card;35.76;Cocoa
+11/10/2024;card;35.76;Cocoa
+11/10/2024;card;30.86;Americano with Milk
+11/10/2024;card;35.76;Hot Chocolate
+11/10/2024;card;30.86;Americano with Milk
+11/10/2024;card;25.96;Cortado
+11/10/2024;card;25.96;Americano
+11/10/2024;card;25.96;Americano
+11/10/2024;card;30.86;Americano with Milk
+11/10/2024;card;35.76;Latte
+11/10/2024;card;25.96;Americano
+11/10/2024;card;25.96;Americano
+11/10/2024;card;35.76;Cocoa
+11/10/2024;card;25.96;Americano
+11/10/2024;card;35.76;Cappuccino
+11/10/2024;card;35.76;Latte
+11/10/2024;card;35.76;Hot Chocolate
+11/10/2024;card;35.76;Hot Chocolate
+11/10/2024;card;35.76;Latte
+11/10/2024;card;30.86;Americano with Milk
+11/10/2024;card;35.76;Hot Chocolate
+11/10/2024;card;35.76;Hot Chocolate
+12/10/2024;card;25.96;Cortado
+12/10/2024;card;25.96;Cortado
+12/10/2024;card;25.96;Cortado
+12/10/2024;card;35.76;Latte
+12/10/2024;card;30.86;Americano with Milk
+12/10/2024;card;35.76;Cappuccino
+12/10/2024;card;35.76;Latte
+13/10/2024;card;25.96;Cortado
+13/10/2024;card;30.86;Americano with Milk
+13/10/2024;card;25.96;Cortado
+13/10/2024;card;21.06;Espresso
+13/10/2024;card;25.96;Cortado
+13/10/2024;card;35.76;Latte
+13/10/2024;card;35.76;Latte
+13/10/2024;card;35.76;Cappuccino
+13/10/2024;card;35.76;Cappuccino
+14/10/2024;card;30.86;Americano with Milk
+14/10/2024;card;35.76;Cocoa
+14/10/2024;card;25.96;Cortado
+14/10/2024;card;35.76;Latte
+14/10/2024;card;35.76;Latte
+14/10/2024;card;35.76;Cappuccino
+14/10/2024;card;25.96;Americano
+14/10/2024;card;25.96;Americano
+14/10/2024;card;35.76;Latte
+14/10/2024;card;35.76;Latte
+14/10/2024;card;25.96;Americano
+14/10/2024;card;35.76;Latte
+14/10/2024;card;35.76;Cappuccino
+14/10/2024;card;35.76;Latte
+14/10/2024;card;35.76;Latte
+14/10/2024;card;35.76;Latte
+15/10/2024;card;25.96;Cortado
+15/10/2024;card;21.06;Espresso
+15/10/2024;card;35.76;Hot Chocolate
+15/10/2024;card;35.76;Latte
+15/10/2024;card;35.76;Hot Chocolate
+15/10/2024;card;35.76;Latte
+15/10/2024;card;30.86;Americano with Milk
+15/10/2024;card;35.76;Latte
+15/10/2024;card;25.96;Americano
+15/10/2024;card;21.06;Espresso
+15/10/2024;card;35.76;Hot Chocolate
+15/10/2024;card;25.96;Americano
+15/10/2024;card;35.76;Cocoa
+15/10/2024;card;35.76;Latte
+15/10/2024;card;35.76;Latte
+15/10/2024;card;35.76;Hot Chocolate
+15/10/2024;card;35.76;Hot Chocolate
+15/10/2024;card;35.76;Latte
+16/10/2024;card;30.86;Americano with Milk
+16/10/2024;card;35.76;Hot Chocolate
+16/10/2024;card;35.76;Latte
+16/10/2024;card;30.86;Americano with Milk
+16/10/2024;card;30.86;Americano with Milk
+16/10/2024;card;30.86;Americano with Milk
+16/10/2024;card;25.96;Americano
+16/10/2024;card;30.86;Americano with Milk
+16/10/2024;card;25.96;Americano
+16/10/2024;card;35.76;Latte
+16/10/2024;card;30.86;Americano with Milk
+16/10/2024;card;30.86;Americano with Milk
+16/10/2024;card;30.86;Americano with Milk
+16/10/2024;card;35.76;Hot Chocolate
+17/10/2024;card;35.76;Latte
+17/10/2024;card;35.76;Latte
+17/10/2024;card;30.86;Americano with Milk
+17/10/2024;card;35.76;Latte
+17/10/2024;card;35.76;Hot Chocolate
+17/10/2024;card;30.86;Americano with Milk
+17/10/2024;card;35.76;Latte
+17/10/2024;card;25.96;Americano
+17/10/2024;card;35.76;Hot Chocolate
+17/10/2024;card;35.76;Hot Chocolate
+17/10/2024;card;35.76;Latte
+17/10/2024;card;35.76;Hot Chocolate
+17/10/2024;card;35.76;Hot Chocolate
+17/10/2024;card;35.76;Cappuccino
+17/10/2024;card;35.76;Hot Chocolate
+17/10/2024;card;35.76;Latte
+17/10/2024;card;30.86;Americano with Milk
+17/10/2024;card;35.76;Latte
+17/10/2024;card;35.76;Latte
+17/10/2024;card;35.76;Latte
+17/10/2024;card;35.76;Hot Chocolate
+18/10/2024;card;35.76;Cocoa
+18/10/2024;card;35.76;Cocoa
+18/10/2024;card;35.76;Cocoa
+18/10/2024;card;35.76;Cocoa
+18/10/2024;card;35.76;Cappuccino
+18/10/2024;card;35.76;Cappuccino
+18/10/2024;card;35.76;Latte
+18/10/2024;card;35.76;Cappuccino
+18/10/2024;card;25.96;Americano
+18/10/2024;card;35.76;Latte
+18/10/2024;card;35.76;Hot Chocolate
+18/10/2024;card;35.76;Cocoa
+18/10/2024;card;35.76;Cocoa
+18/10/2024;card;30.86;Americano with Milk
+18/10/2024;card;35.76;Latte
+19/10/2024;card;30.86;Americano with Milk
+19/10/2024;card;35.76;Latte
+19/10/2024;card;35.76;Cappuccino
+19/10/2024;card;35.76;Hot Chocolate
+19/10/2024;card;35.76;Latte
+19/10/2024;card;35.76;Latte
+19/10/2024;card;35.76;Latte
+19/10/2024;card;35.76;Cocoa
+19/10/2024;card;35.76;Cappuccino
+20/10/2024;card;35.76;Latte
+20/10/2024;card;35.76;Cocoa
+20/10/2024;card;35.76;Latte
+20/10/2024;card;35.76;Hot Chocolate
+20/10/2024;card;25.96;Cortado
+20/10/2024;card;30.86;Americano with Milk
+20/10/2024;card;35.76;Latte
+20/10/2024;card;35.76;Latte
+20/10/2024;card;35.76;Latte
+20/10/2024;card;35.76;Cocoa
+20/10/2024;card;35.76;Cocoa
+20/10/2024;card;35.76;Hot Chocolate
+20/10/2024;card;25.96;Cortado
+20/10/2024;card;35.76;Cocoa
+20/10/2024;card;35.76;Latte
+20/10/2024;card;35.76;Cappuccino
+21/10/2024;card;35.76;Latte
+21/10/2024;card;35.76;Latte
+21/10/2024;card;30.86;Americano with Milk
+21/10/2024;card;35.76;Latte
+21/10/2024;card;25.96;Americano
+21/10/2024;card;25.96;Cortado
+21/10/2024;card;25.96;Cortado
+21/10/2024;card;21.06;Espresso
+21/10/2024;card;35.76;Cappuccino
+21/10/2024;card;35.76;Latte
+21/10/2024;card;35.76;Latte
+21/10/2024;card;30.86;Americano with Milk
+21/10/2024;card;25.96;Cortado
+21/10/2024;card;35.76;Cocoa
+21/10/2024;card;35.76;Latte
+21/10/2024;card;35.76;Hot Chocolate
+21/10/2024;card;35.76;Latte
+21/10/2024;card;35.76;Cocoa
+21/10/2024;card;35.76;Hot Chocolate
+22/10/2024;card;35.76;Latte
+22/10/2024;card;35.76;Cappuccino
+22/10/2024;card;30.86;Americano with Milk
+22/10/2024;card;25.96;Cortado
+22/10/2024;card;21.06;Espresso
+22/10/2024;card;25.96;Cortado
+22/10/2024;card;25.96;Americano
+22/10/2024;card;35.76;Hot Chocolate
+22/10/2024;card;35.76;Latte
+23/10/2024;card;35.76;Latte
+23/10/2024;card;30.86;Americano with Milk
+23/10/2024;card;25.96;Cortado
+23/10/2024;card;30.86;Americano with Milk
+23/10/2024;card;30.86;Americano with Milk
+23/10/2024;card;30.86;Americano with Milk
+23/10/2024;card;35.76;Cappuccino
+23/10/2024;card;21.06;Espresso
+23/10/2024;card;35.76;Cocoa
+23/10/2024;card;35.76;Cappuccino
+23/10/2024;card;30.86;Americano with Milk
+23/10/2024;card;35.76;Hot Chocolate
+23/10/2024;card;35.76;Latte
+24/10/2024;card;25.96;Americano
+24/10/2024;card;35.76;Cappuccino
+24/10/2024;card;35.76;Cappuccino
+24/10/2024;card;35.76;Hot Chocolate
+24/10/2024;card;35.76;Latte
+24/10/2024;card;35.76;Latte
+24/10/2024;card;35.76;Latte
+24/10/2024;card;25.96;Americano
+24/10/2024;card;25.96;Americano
+24/10/2024;card;35.76;Latte
+24/10/2024;card;25.96;Americano
+24/10/2024;card;35.76;Hot Chocolate
+24/10/2024;card;35.76;Hot Chocolate
+24/10/2024;card;35.76;Hot Chocolate
+24/10/2024;card;35.76;Cappuccino
+25/10/2024;card;35.76;Cappuccino
+25/10/2024;card;21.06;Espresso
+25/10/2024;card;35.76;Cocoa
+25/10/2024;card;35.76;Latte
+25/10/2024;card;35.76;Cocoa
+25/10/2024;card;25.96;Americano
+25/10/2024;card;25.96;Americano
+25/10/2024;card;30.86;Americano with Milk
+25/10/2024;card;35.76;Cocoa
+25/10/2024;card;35.76;Cocoa
+25/10/2024;card;25.96;Cortado
+25/10/2024;card;35.76;Latte
+25/10/2024;card;35.76;Cappuccino
+25/10/2024;card;35.76;Hot Chocolate
+25/10/2024;card;21.06;Espresso
+26/10/2024;card;35.76;Cappuccino
+26/10/2024;card;25.96;Cortado
+26/10/2024;card;35.76;Cappuccino
+26/10/2024;card;25.96;Americano
+26/10/2024;card;35.76;Cocoa
+26/10/2024;card;35.76;Latte
+26/10/2024;card;35.76;Latte
+26/10/2024;card;30.86;Americano with Milk
+26/10/2024;card;25.96;Cortado
+26/10/2024;card;25.96;Cortado
+26/10/2024;card;35.76;Latte
+26/10/2024;card;35.76;Latte
+26/10/2024;card;30.86;Americano with Milk
+26/10/2024;card;30.86;Americano with Milk
+26/10/2024;card;35.76;Cappuccino
+26/10/2024;card;30.86;Americano with Milk
+27/10/2024;card;30.86;Americano with Milk
+27/10/2024;card;35.76;Latte
+27/10/2024;card;30.86;Americano with Milk
+27/10/2024;card;35.76;Cappuccino
+27/10/2024;card;35.76;Latte
+28/10/2024;card;35.76;Cappuccino
+28/10/2024;card;25.96;Americano
+28/10/2024;card;35.76;Latte
+28/10/2024;card;30.86;Americano with Milk
+28/10/2024;card;35.76;Latte
+28/10/2024;card;35.76;Latte
+28/10/2024;card;35.76;Hot Chocolate
+28/10/2024;card;30.86;Americano with Milk
+28/10/2024;card;35.76;Cappuccino
+28/10/2024;card;30.86;Americano with Milk
+28/10/2024;card;30.86;Americano with Milk
+28/10/2024;card;30.86;Americano with Milk
+28/10/2024;card;35.76;Latte
+28/10/2024;card;35.76;Cocoa
+28/10/2024;card;35.76;Cocoa
+28/10/2024;card;35.76;Cappuccino
+28/10/2024;card;30.86;Americano with Milk
+28/10/2024;card;30.86;Americano with Milk
+29/10/2024;card;35.76;Latte
+29/10/2024;card;35.76;Latte
+29/10/2024;card;35.76;Latte
+29/10/2024;card;30.86;Americano with Milk
+29/10/2024;card;21.06;Espresso
+29/10/2024;card;25.96;Cortado
+29/10/2024;card;25.96;Cortado
+29/10/2024;card;35.76;Cappuccino
+29/10/2024;card;35.76;Hot Chocolate
+29/10/2024;card;35.76;Cocoa
+29/10/2024;card;35.76;Cocoa
+29/10/2024;card;30.86;Americano with Milk
+29/10/2024;card;30.86;Americano with Milk
+29/10/2024;card;30.86;Americano with Milk
+29/10/2024;card;35.76;Cappuccino
+29/10/2024;card;35.76;Hot Chocolate
+29/10/2024;card;35.76;Latte
+29/10/2024;card;35.76;Latte
+30/10/2024;card;35.76;Latte
+30/10/2024;card;30.86;Americano with Milk
+30/10/2024;card;30.86;Americano with Milk
+30/10/2024;card;35.76;Latte
+30/10/2024;card;35.76;Latte
+30/10/2024;card;35.76;Latte
+30/10/2024;card;35.76;Latte
+30/10/2024;card;25.96;Americano
+30/10/2024;card;30.86;Americano with Milk
+30/10/2024;card;25.96;Americano
+30/10/2024;card;35.76;Latte
+30/10/2024;card;35.76;Latte
+30/10/2024;card;30.86;Americano with Milk
+30/10/2024;card;35.76;Hot Chocolate
+30/10/2024;card;30.86;Americano with Milk
+30/10/2024;card;30.86;Americano with Milk
+31/10/2024;card;35.76;Latte
+31/10/2024;card;35.76;Latte
+31/10/2024;card;30.86;Americano with Milk
+31/10/2024;card;35.76;Latte
+31/10/2024;card;30.86;Americano with Milk
+01/11/2024;card;35.76;Cocoa
+01/11/2024;card;25.96;Americano
+01/11/2024;card;35.76;Latte
+01/11/2024;card;35.76;Cocoa
+01/11/2024;card;35.76;Cocoa
+01/11/2024;card;25.96;Cortado
+01/11/2024;card;30.86;Americano with Milk
+02/11/2024;card;25.96;Cortado
+02/11/2024;card;35.76;Cocoa
+02/11/2024;card;30.86;Americano with Milk
+02/11/2024;card;30.86;Americano with Milk
+02/11/2024;card;35.76;Hot Chocolate
+02/11/2024;card;35.76;Latte
+02/11/2024;card;35.76;Latte
+02/11/2024;card;30.86;Americano with Milk
+02/11/2024;card;25.96;Americano
+03/11/2024;card;25.96;Cortado
+03/11/2024;card;30.86;Americano with Milk
+03/11/2024;card;30.86;Americano with Milk
+03/11/2024;card;35.76;Latte
+03/11/2024;card;30.86;Americano with Milk
+03/11/2024;card;35.76;Cocoa
+03/11/2024;card;25.96;Americano
+03/11/2024;card;30.86;Americano with Milk
+03/11/2024;card;35.76;Hot Chocolate
+03/11/2024;card;35.76;Hot Chocolate
+03/11/2024;card;25.96;Americano
+03/11/2024;card;25.96;Americano
+03/11/2024;card;35.76;Cocoa
+04/11/2024;card;35.76;Latte
+04/11/2024;card;35.76;Latte
+04/11/2024;card;30.86;Americano with Milk
+04/11/2024;card;25.96;Americano
+04/11/2024;card;30.86;Americano with Milk
+04/11/2024;card;35.76;Cocoa
+04/11/2024;card;35.76;Cocoa
+05/11/2024;card;35.76;Cocoa
+05/11/2024;card;30.86;Americano with Milk
+05/11/2024;card;35.76;Cappuccino
+05/11/2024;card;30.86;Americano with Milk
+05/11/2024;card;30.86;Americano with Milk
+05/11/2024;card;35.76;Cocoa
+05/11/2024;card;35.76;Latte
+05/11/2024;card;35.76;Latte
+05/11/2024;card;35.76;Latte
+05/11/2024;card;35.76;Cappuccino
+05/11/2024;card;35.76;Cappuccino
+05/11/2024;card;35.76;Cappuccino
+05/11/2024;card;35.76;Cocoa
+05/11/2024;card;35.76;Cocoa
+05/11/2024;card;35.76;Hot Chocolate
+05/11/2024;card;35.76;Hot Chocolate
+05/11/2024;card;30.86;Americano with Milk
+06/11/2024;card;35.76;Latte
+06/11/2024;card;21.06;Espresso
+06/11/2024;card;25.96;Americano
+06/11/2024;card;35.76;Cappuccino
+06/11/2024;card;35.76;Latte
+06/11/2024;card;35.76;Cappuccino
+06/11/2024;card;35.76;Hot Chocolate
+06/11/2024;card;35.76;Hot Chocolate
+07/11/2024;card;35.76;Latte
+07/11/2024;card;25.96;Americano
+07/11/2024;card;25.96;Americano
+07/11/2024;card;35.76;Cocoa
+07/11/2024;card;35.76;Hot Chocolate
+07/11/2024;card;35.76;Latte
+07/11/2024;card;35.76;Latte
+08/11/2024;card;30.86;Americano with Milk
+08/11/2024;card;25.96;Americano
+08/11/2024;card;25.96;Americano
+08/11/2024;card;35.76;Cappuccino
+08/11/2024;card;35.76;Latte
+08/11/2024;card;35.76;Latte
+08/11/2024;card;30.86;Americano with Milk
+08/11/2024;card;30.86;Americano with Milk
+08/11/2024;card;35.76;Hot Chocolate
+08/11/2024;card;35.76;Hot Chocolate
+08/11/2024;card;35.76;Hot Chocolate
+08/11/2024;card;35.76;Latte
+09/11/2024;card;30.86;Americano with Milk
+09/11/2024;card;25.96;Cortado
+09/11/2024;card;25.96;Cortado
+09/11/2024;card;35.76;Latte
+09/11/2024;card;35.76;Hot Chocolate
+09/11/2024;card;35.76;Hot Chocolate
+09/11/2024;card;35.76;Hot Chocolate
+09/11/2024;card;35.76;Hot Chocolate
+09/11/2024;card;25.96;Americano
+09/11/2024;card;30.86;Americano with Milk
+09/11/2024;card;35.76;Latte
+09/11/2024;card;35.76;Cocoa
+09/11/2024;card;25.96;Americano
+09/11/2024;card;35.76;Latte
+09/11/2024;card;35.76;Cocoa
+09/11/2024;card;25.96;Americano
+09/11/2024;card;25.96;Americano
+10/11/2024;card;25.96;Americano
+10/11/2024;card;35.76;Cocoa
+10/11/2024;card;35.76;Hot Chocolate
+10/11/2024;card;35.76;Hot Chocolate
+10/11/2024;card;35.76;Cappuccino
+10/11/2024;card;35.76;Cappuccino
+11/11/2024;card;35.76;Cappuccino
+11/11/2024;card;30.86;Americano with Milk
+11/11/2024;card;25.96;Cortado
+11/11/2024;card;35.76;Cappuccino
+11/11/2024;card;35.76;Hot Chocolate
+11/11/2024;card;35.76;Cappuccino
+11/11/2024;card;35.76;Latte
+11/11/2024;card;35.76;Hot Chocolate
+11/11/2024;card;35.76;Latte
+11/11/2024;card;35.76;Latte
+12/11/2024;card;35.76;Latte
+12/11/2024;card;35.76;Latte
+12/11/2024;card;35.76;Latte
+12/11/2024;card;35.76;Hot Chocolate
+12/11/2024;card;35.76;Hot Chocolate
+12/11/2024;card;35.76;Cocoa
+12/11/2024;card;35.76;Cappuccino
+12/11/2024;card;35.76;Latte
+12/11/2024;card;35.76;Cocoa
+13/11/2024;card;30.86;Americano with Milk
+13/11/2024;card;35.76;Latte
+13/11/2024;card;30.86;Americano with Milk
+13/11/2024;card;30.86;Americano with Milk
+13/11/2024;card;30.86;Americano with Milk
+13/11/2024;card;35.76;Latte
+14/11/2024;card;35.76;Latte
+14/11/2024;card;25.96;Americano
+14/11/2024;card;21.06;Espresso
+14/11/2024;card;35.76;Cappuccino
+14/11/2024;card;35.76;Latte
+14/11/2024;card;35.76;Cappuccino
+14/11/2024;card;30.86;Americano with Milk
+14/11/2024;card;35.76;Cappuccino
+14/11/2024;card;35.76;Hot Chocolate
+14/11/2024;card;35.76;Hot Chocolate
+14/11/2024;card;35.76;Cocoa
+14/11/2024;card;35.76;Hot Chocolate
+14/11/2024;card;35.76;Latte
+14/11/2024;card;35.76;Latte
+15/11/2024;card;30.86;Americano with Milk
+15/11/2024;card;30.86;Americano with Milk
+15/11/2024;card;35.76;Cocoa
+15/11/2024;card;35.76;Cocoa
+15/11/2024;card;35.76;Latte
+15/11/2024;card;25.96;Americano
+15/11/2024;card;30.86;Americano with Milk
+15/11/2024;card;35.76;Latte
+15/11/2024;card;35.76;Hot Chocolate
+15/11/2024;card;30.86;Americano with Milk
+15/11/2024;card;30.86;Americano with Milk
+16/11/2024;card;25.96;Cortado
+16/11/2024;card;25.96;Cortado
+16/11/2024;card;35.76;Hot Chocolate
+16/11/2024;card;35.76;Latte
+16/11/2024;card;25.96;Americano
+16/11/2024;card;35.76;Cappuccino
+16/11/2024;card;30.86;Americano with Milk
+16/11/2024;card;35.76;Latte
+16/11/2024;card;35.76;Latte
+16/11/2024;card;30.86;Americano with Milk
+16/11/2024;card;35.76;Latte
+16/11/2024;card;35.76;Latte
+16/11/2024;card;30.86;Americano with Milk
+17/11/2024;card;30.86;Americano with Milk
+17/11/2024;card;30.86;Americano with Milk
+17/11/2024;card;25.96;Americano
+17/11/2024;card;30.86;Americano with Milk
+17/11/2024;card;35.76;Latte
+17/11/2024;card;35.76;Latte
+17/11/2024;card;35.76;Hot Chocolate
+17/11/2024;card;35.76;Hot Chocolate
+17/11/2024;card;35.76;Hot Chocolate
+18/11/2024;card;30.86;Americano with Milk
+18/11/2024;card;30.86;Americano with Milk
+18/11/2024;card;35.76;Latte
+18/11/2024;card;35.76;Latte
+18/11/2024;card;35.76;Latte
+18/11/2024;card;35.76;Latte
+19/11/2024;card;35.76;Cocoa
+19/11/2024;card;30.86;Americano with Milk
+19/11/2024;card;35.76;Latte
+19/11/2024;card;21.06;Espresso
+19/11/2024;card;35.76;Latte
+19/11/2024;card;30.86;Americano with Milk
+19/11/2024;card;35.76;Latte
+19/11/2024;card;35.76;Cocoa
+19/11/2024;card;35.76;Cocoa
+19/11/2024;card;35.76;Cappuccino
+19/11/2024;card;35.76;Cappuccino
+20/11/2024;card;30.86;Americano with Milk
+20/11/2024;card;35.76;Latte
+20/11/2024;card;35.76;Cappuccino
+20/11/2024;card;35.76;Hot Chocolate
+21/11/2024;card;25.96;Cortado
+21/11/2024;card;35.76;Latte
+21/11/2024;card;35.76;Cocoa
+21/11/2024;card;35.76;Cocoa
+21/11/2024;card;35.76;Latte
+21/11/2024;card;30.86;Americano with Milk
+21/11/2024;card;25.96;Cortado
+21/11/2024;card;35.76;Hot Chocolate
+22/11/2024;card;35.76;Latte
+22/11/2024;card;35.76;Cappuccino
+22/11/2024;card;35.76;Latte
+22/11/2024;card;35.76;Cocoa
+22/11/2024;card;35.76;Hot Chocolate
+22/11/2024;card;35.76;Latte
+23/11/2024;card;25.96;Cortado
+23/11/2024;card;25.96;Cortado
+23/11/2024;card;35.76;Latte
+23/11/2024;card;35.76;Cappuccino
+23/11/2024;card;25.96;Americano
+23/11/2024;card;25.96;Americano
+23/11/2024;card;35.76;Hot Chocolate
+23/11/2024;card;35.76;Latte
+24/11/2024;card;35.76;Latte
+25/11/2024;card;35.76;Cappuccino
+25/11/2024;card;35.76;Latte
+25/11/2024;card;30.86;Americano with Milk
+25/11/2024;card;25.96;Cortado
+25/11/2024;card;35.76;Latte
+25/11/2024;card;35.76;Latte
+25/11/2024;card;35.76;Hot Chocolate
+25/11/2024;card;30.86;Americano with Milk
+25/11/2024;card;35.76;Hot Chocolate
+25/11/2024;card;35.76;Hot Chocolate
+25/11/2024;card;35.76;Cappuccino
+26/11/2024;card;35.76;Latte
+26/11/2024;card;35.76;Cocoa
+26/11/2024;card;25.96;Americano
+26/11/2024;card;35.76;Cocoa
+26/11/2024;card;35.76;Cocoa
+26/11/2024;card;35.76;Latte
+26/11/2024;card;35.76;Latte
+26/11/2024;card;25.96;Americano
+26/11/2024;card;30.86;Americano with Milk
+26/11/2024;card;35.76;Cocoa
+28/11/2024;card;35.76;Cappuccino
+28/11/2024;card;30.86;Americano with Milk
+28/11/2024;card;30.86;Americano with Milk
+28/11/2024;card;35.76;Latte
+28/11/2024;card;35.76;Latte
+28/11/2024;card;35.76;Cappuccino
+29/11/2024;card;35.76;Cocoa
+29/11/2024;card;35.76;Latte
+29/11/2024;card;30.86;Americano with Milk
+29/11/2024;card;30.86;Americano with Milk
+29/11/2024;card;30.86;Americano with Milk
+29/11/2024;card;35.76;Latte
+29/11/2024;card;35.76;Cocoa
+30/11/2024;card;35.76;Cocoa
+30/11/2024;card;25.96;Americano
+30/11/2024;card;35.76;Hot Chocolate
+30/11/2024;card;35.76;Cocoa
+30/11/2024;card;30.86;Americano with Milk
+30/11/2024;card;30.86;Americano with Milk
+01/12/2024;card;30.86;Americano with Milk
+01/12/2024;card;30.86;Americano with Milk
+01/12/2024;card;30.86;Americano with Milk
+01/12/2024;card;30.86;Americano with Milk
+01/12/2024;card;35.76;Cocoa
+01/12/2024;card;35.76;Cocoa
+01/12/2024;card;35.76;Cappuccino
+01/12/2024;card;35.76;Latte
+01/12/2024;card;35.76;Latte
+01/12/2024;card;35.76;Latte
+01/12/2024;card;35.76;Latte
+01/12/2024;card;30.86;Americano with Milk
+01/12/2024;card;30.86;Americano with Milk
+01/12/2024;card;30.86;Americano with Milk
+02/12/2024;card;35.76;Latte
+02/12/2024;card;25.96;Americano
+02/12/2024;card;30.86;Americano with Milk
+02/12/2024;card;35.76;Cocoa
+02/12/2024;card;25.96;Cortado
+02/12/2024;card;21.06;Espresso
+02/12/2024;card;35.76;Cappuccino
+02/12/2024;card;25.96;Americano
+02/12/2024;card;35.76;Cappuccino
+03/12/2024;card;35.76;Latte
+03/12/2024;card;30.86;Americano with Milk
+03/12/2024;card;30.86;Americano with Milk
+03/12/2024;card;25.96;Americano
+03/12/2024;card;30.86;Americano with Milk
+03/12/2024;card;30.86;Americano with Milk
+03/12/2024;card;30.86;Americano with Milk
+03/12/2024;card;35.76;Cocoa
+03/12/2024;card;35.76;Latte
+03/12/2024;card;35.76;Cappuccino
+03/12/2024;card;35.76;Hot Chocolate
+03/12/2024;card;30.86;Americano with Milk
+03/12/2024;card;35.76;Cappuccino
+04/12/2024;card;25.96;Cortado
+04/12/2024;card;35.76;Latte
+04/12/2024;card;35.76;Latte
+04/12/2024;card;25.96;Americano
+04/12/2024;card;30.86;Americano with Milk
+04/12/2024;card;30.86;Americano with Milk
+04/12/2024;card;30.86;Americano with Milk
+04/12/2024;card;35.76;Hot Chocolate
+04/12/2024;card;30.86;Americano with Milk
+04/12/2024;card;35.76;Hot Chocolate
+05/12/2024;card;25.96;Americano
+05/12/2024;card;25.96;Cortado
+05/12/2024;card;30.86;Americano with Milk
+05/12/2024;card;30.86;Americano with Milk
+05/12/2024;card;35.76;Latte
+05/12/2024;card;25.96;Americano
+05/12/2024;card;35.76;Cappuccino
+05/12/2024;card;35.76;Latte
+05/12/2024;card;35.76;Latte
+06/12/2024;card;35.76;Latte
+06/12/2024;card;35.76;Hot Chocolate
+06/12/2024;card;35.76;Latte
+06/12/2024;card;35.76;Hot Chocolate
+07/12/2024;card;30.86;Americano with Milk
+07/12/2024;card;25.96;Americano
+07/12/2024;card;35.76;Latte
+07/12/2024;card;35.76;Cappuccino
+07/12/2024;card;30.86;Americano with Milk
+07/12/2024;card;25.96;Americano
+08/12/2024;card;25.96;Cortado
+08/12/2024;card;35.76;Latte
+08/12/2024;card;35.76;Cappuccino
+08/12/2024;card;25.96;Cortado
+08/12/2024;card;30.86;Americano with Milk
+08/12/2024;card;30.86;Americano with Milk
+08/12/2024;card;35.76;Cappuccino
+08/12/2024;card;21.06;Espresso
+08/12/2024;card;35.76;Cappuccino
+08/12/2024;card;30.86;Americano with Milk
+08/12/2024;card;30.86;Americano with Milk
+09/12/2024;card;35.76;Cappuccino
+09/12/2024;card;25.96;Americano
+09/12/2024;card;30.86;Americano with Milk
+09/12/2024;card;25.96;Cortado
+09/12/2024;card;35.76;Cocoa
+10/12/2024;card;25.96;Cortado
+10/12/2024;card;35.76;Hot Chocolate
+11/12/2024;card;35.76;Latte
+11/12/2024;card;25.96;Cortado
+11/12/2024;card;35.76;Hot Chocolate
+11/12/2024;card;21.06;Espresso
+11/12/2024;card;35.76;Cocoa
+11/12/2024;card;35.76;Latte
+11/12/2024;card;35.76;Latte
+12/12/2024;card;30.86;Americano with Milk
+12/12/2024;card;25.96;Americano
+12/12/2024;card;21.06;Espresso
+12/12/2024;card;21.06;Espresso
+12/12/2024;card;25.96;Americano
+12/12/2024;card;35.76;Cocoa
+12/12/2024;card;35.76;Cocoa
+13/12/2024;card;25.96;Americano
+13/12/2024;card;25.96;Americano
+13/12/2024;card;35.76;Hot Chocolate
+13/12/2024;card;35.76;Hot Chocolate
+13/12/2024;card;35.76;Cocoa
+13/12/2024;card;35.76;Cappuccino
+13/12/2024;card;35.76;Cappuccino
+13/12/2024;card;35.76;Latte
+14/12/2024;card;30.86;Americano with Milk
+14/12/2024;card;35.76;Cocoa
+14/12/2024;card;35.76;Cappuccino
+14/12/2024;card;25.96;Americano
+14/12/2024;card;35.76;Latte
+14/12/2024;card;35.76;Cocoa
+14/12/2024;card;25.96;Americano
+14/12/2024;card;25.96;Americano
+14/12/2024;card;25.96;Americano
+14/12/2024;card;25.96;Americano
+14/12/2024;card;30.86;Americano with Milk
+15/12/2024;card;35.76;Latte
+15/12/2024;card;35.76;Cocoa
+15/12/2024;card;35.76;Hot Chocolate
+16/12/2024;card;35.76;Latte
+16/12/2024;card;35.76;Hot Chocolate
+16/12/2024;card;35.76;Cocoa
+16/12/2024;card;30.86;Americano with Milk
+16/12/2024;card;35.76;Latte
+16/12/2024;card;35.76;Hot Chocolate
+16/12/2024;card;35.76;Latte
+16/12/2024;card;30.86;Americano with Milk
+17/12/2024;card;25.96;Cortado
+17/12/2024;card;35.76;Cappuccino
+17/12/2024;card;30.86;Americano with Milk
+17/12/2024;card;25.96;Americano
+17/12/2024;card;35.76;Cocoa
+17/12/2024;card;35.76;Cappuccino
+17/12/2024;card;35.76;Cocoa
+18/12/2024;card;35.76;Latte
+18/12/2024;card;30.86;Americano with Milk
+18/12/2024;card;35.76;Latte
+18/12/2024;card;35.76;Cappuccino
+19/12/2024;card;35.76;Hot Chocolate
+19/12/2024;card;30.86;Americano with Milk
+19/12/2024;card;21.06;Espresso
+19/12/2024;card;35.76;Hot Chocolate
+19/12/2024;card;35.76;Cappuccino
+19/12/2024;card;35.76;Cappuccino
+19/12/2024;card;30.86;Americano with Milk
+19/12/2024;card;35.76;Hot Chocolate
+19/12/2024;card;35.76;Latte
+19/12/2024;card;35.76;Cappuccino
+20/12/2024;card;25.96;Cortado
+20/12/2024;card;30.86;Americano with Milk
+20/12/2024;card;35.76;Cappuccino
+20/12/2024;card;25.96;Cortado
+20/12/2024;card;21.06;Espresso
+20/12/2024;card;30.86;Americano with Milk
+20/12/2024;card;25.96;Cortado
+20/12/2024;card;35.76;Cappuccino
+20/12/2024;card;35.76;Cappuccino
+21/12/2024;card;35.76;Cappuccino
+21/12/2024;card;35.76;Latte
+21/12/2024;card;25.96;Americano
+21/12/2024;card;35.76;Hot Chocolate
+21/12/2024;card;35.76;Latte
+21/12/2024;card;30.86;Americano with Milk
+21/12/2024;card;35.76;Latte
+21/12/2024;card;35.76;Cocoa
+21/12/2024;card;35.76;Hot Chocolate
+21/12/2024;card;25.96;Cortado
+21/12/2024;card;30.86;Americano with Milk
+21/12/2024;card;25.96;Cortado
+21/12/2024;card;25.96;Cortado
+21/12/2024;card;35.76;Latte
+21/12/2024;card;25.96;Cortado
+22/12/2024;card;35.76;Cappuccino
+22/12/2024;card;35.76;Cappuccino
+22/12/2024;card;35.76;Hot Chocolate
+22/12/2024;card;35.76;Hot Chocolate
+22/12/2024;card;35.76;Hot Chocolate
+22/12/2024;card;35.76;Cocoa
+22/12/2024;card;25.96;Cortado
+23/12/2024;card;25.96;Cortado
+23/12/2024;card;30.86;Americano with Milk
+23/12/2024;card;30.86;Americano with Milk
+23/12/2024;card;35.76;Cappuccino
+23/12/2024;card;35.76;Latte
+23/12/2024;card;30.86;Americano with Milk
+23/12/2024;card;35.76;Latte
+23/12/2024;card;25.96;Cortado
+23/12/2024;card;35.76;Latte
+23/12/2024;card;25.96;Cortado
+24/12/2024;card;30.86;Americano with Milk
+24/12/2024;card;35.76;Hot Chocolate
+24/12/2024;card;25.96;Cortado
+24/12/2024;card;35.76;Hot Chocolate
+24/12/2024;card;35.76;Latte
+24/12/2024;card;21.06;Espresso
+24/12/2024;card;35.76;Cappuccino
+25/12/2024;card;35.76;Latte
+25/12/2024;card;35.76;Latte
+25/12/2024;card;30.86;Americano with Milk
+25/12/2024;card;25.96;Americano
+25/12/2024;card;30.86;Americano with Milk
+25/12/2024;card;25.96;Americano
+25/12/2024;card;35.76;Cappuccino
+25/12/2024;card;35.76;Cocoa
+25/12/2024;card;35.76;Cocoa
+25/12/2024;card;35.76;Latte
+25/12/2024;card;35.76;Cappuccino
+25/12/2024;card;30.86;Americano with Milk
+26/12/2024;card;35.76;Cappuccino
+26/12/2024;card;21.06;Espresso
+27/12/2024;card;25.96;Americano
+27/12/2024;card;25.96;Cortado
+27/12/2024;card;25.96;Cortado
+27/12/2024;card;30.86;Americano with Milk
+27/12/2024;card;35.76;Latte
+27/12/2024;card;25.96;Americano
+27/12/2024;card;30.86;Americano with Milk
+27/12/2024;card;35.76;Cocoa
+28/12/2024;card;25.96;Cortado
+28/12/2024;card;25.96;Cortado
+28/12/2024;card;30.86;Americano with Milk
+28/12/2024;card;35.76;Latte
+28/12/2024;card;35.76;Cappuccino
+28/12/2024;card;35.76;Hot Chocolate
+28/12/2024;card;35.76;Latte
+28/12/2024;card;35.76;Cappuccino
+29/12/2024;card;25.96;Cortado
+29/12/2024;card;21.06;Espresso
+29/12/2024;card;25.96;Americano
+29/12/2024;card;25.96;Cortado
+29/12/2024;card;21.06;Espresso
+29/12/2024;card;25.96;Cortado
+29/12/2024;card;35.76;Hot Chocolate
+29/12/2024;card;35.76;Latte
+30/12/2024;card;25.96;Cortado
+30/12/2024;card;30.86;Americano with Milk
+30/12/2024;card;35.76;Latte
+30/12/2024;card;35.76;Hot Chocolate
+30/12/2024;card;35.76;Latte
+30/12/2024;card;30.86;Americano with Milk
+30/12/2024;card;30.86;Americano with Milk
+30/12/2024;card;25.96;Americano
+30/12/2024;card;35.76;Cappuccino
+31/12/2024;card;25.96;Cortado
+31/12/2024;card;35.76;Cappuccino
+31/12/2024;card;25.96;Cortado
+31/12/2024;card;35.76;Cocoa
+31/12/2024;card;30.86;Americano with Milk
+31/12/2024;card;30.86;Americano with Milk
+31/12/2024;card;35.76;Cappuccino
+31/12/2024;card;30.86;Americano with Milk
+31/12/2024;card;21.06;Espresso
+31/12/2024;card;25.96;Americano
+31/12/2024;card;35.76;Cappuccino
+31/12/2024;card;35.76;Latte
+31/12/2024;card;30.86;Americano with Milk
+31/12/2024;card;35.76;Cappuccino
+31/12/2024;card;35.76;Latte
+31/12/2024;card;35.76;Hot Chocolate
+02/01/2025;card;30.86;Americano with Milk
+02/01/2025;card;35.76;Cocoa
+02/01/2025;card;35.76;Cocoa
+02/01/2025;card;25.96;Cortado
+02/01/2025;card;25.96;Cortado
+02/01/2025;card;25.96;Americano
+02/01/2025;card;35.76;Hot Chocolate
+02/01/2025;card;30.86;Americano with Milk
+02/01/2025;card;35.76;Cappuccino
+03/01/2025;card;25.96;Cortado
+03/01/2025;card;30.86;Americano with Milk
+03/01/2025;card;30.86;Americano with Milk
+03/01/2025;card;35.76;Cappuccino
+03/01/2025;card;25.96;Americano
+03/01/2025;card;25.96;Americano
+03/01/2025;card;35.76;Latte
+04/01/2025;card;25.96;Cortado
+04/01/2025;card;25.96;Americano
+04/01/2025;card;35.76;Cappuccino
+04/01/2025;card;35.76;Cocoa
+04/01/2025;card;30.86;Americano with Milk
+04/01/2025;card;35.76;Cappuccino
+04/01/2025;card;35.76;Cappuccino
+04/01/2025;card;25.96;Cortado
+04/01/2025;card;25.96;Americano
+04/01/2025;card;35.76;Latte
+05/01/2025;card;30.86;Americano with Milk
+05/01/2025;card;35.76;Latte
+05/01/2025;card;30.86;Americano with Milk
+06/01/2025;card;25.96;Americano
+07/01/2025;card;35.76;Cappuccino
+07/01/2025;card;35.76;Cocoa
+07/01/2025;card;35.76;Cocoa
+08/01/2025;card;30.86;Americano with Milk
+08/01/2025;card;35.76;Latte
+08/01/2025;card;25.96;Cortado
+08/01/2025;card;35.76;Cappuccino
+09/01/2025;card;25.96;Americano
+09/01/2025;card;35.76;Latte
+09/01/2025;card;30.86;Americano with Milk
+09/01/2025;card;21.06;Espresso
+09/01/2025;card;35.76;Latte
+09/01/2025;card;30.86;Americano with Milk
+09/01/2025;card;25.96;Cortado
+09/01/2025;card;30.86;Americano with Milk
+09/01/2025;card;35.76;Latte
+10/01/2025;card;30.86;Americano with Milk
+10/01/2025;card;30.86;Americano with Milk
+10/01/2025;card;35.76;Cappuccino
+10/01/2025;card;35.76;Hot Chocolate
+10/01/2025;card;30.86;Americano with Milk
+11/01/2025;card;30.86;Americano with Milk
+11/01/2025;card;35.76;Hot Chocolate
+11/01/2025;card;25.96;Americano
+11/01/2025;card;35.76;Latte
+11/01/2025;card;35.76;Latte
+11/01/2025;card;35.76;Latte
+11/01/2025;card;35.76;Latte
+11/01/2025;card;30.86;Americano with Milk
+11/01/2025;card;30.86;Americano with Milk
+11/01/2025;card;35.76;Cappuccino
+11/01/2025;card;35.76;Latte
+11/01/2025;card;25.96;Cortado
+11/01/2025;card;35.76;Latte
+11/01/2025;card;25.96;Cortado
+11/01/2025;card;30.86;Americano with Milk
+12/01/2025;card;30.86;Americano with Milk
+12/01/2025;card;25.96;Americano
+12/01/2025;card;30.86;Americano with Milk
+12/01/2025;card;35.76;Hot Chocolate
+12/01/2025;card;30.86;Americano with Milk
+13/01/2025;card;30.86;Americano with Milk
+13/01/2025;card;30.86;Americano with Milk
+13/01/2025;card;25.96;Cortado
+13/01/2025;card;35.76;Latte
+13/01/2025;card;35.76;Latte
+13/01/2025;card;35.76;Cappuccino
+13/01/2025;card;35.76;Latte
+13/01/2025;card;21.06;Espresso
+14/01/2025;card;35.76;Latte
+14/01/2025;card;25.96;Cortado
+14/01/2025;card;30.86;Americano with Milk
+14/01/2025;card;35.76;Latte
+14/01/2025;card;30.86;Americano with Milk
+14/01/2025;card;30.86;Americano with Milk
+14/01/2025;card;35.76;Cappuccino
+14/01/2025;card;35.76;Latte
+15/01/2025;card;30.86;Americano with Milk
+15/01/2025;card;25.96;Americano
+15/01/2025;card;35.76;Cappuccino
+15/01/2025;card;35.76;Latte
+15/01/2025;card;35.76;Cappuccino
+15/01/2025;card;35.76;Latte
+15/01/2025;card;35.76;Latte
+15/01/2025;card;35.76;Latte
+15/01/2025;card;35.76;Latte
+15/01/2025;card;35.76;Cappuccino
+16/01/2025;card;35.76;Latte
+16/01/2025;card;30.86;Americano with Milk
+16/01/2025;card;30.86;Americano with Milk
+16/01/2025;card;25.96;Cortado
+16/01/2025;card;35.76;Latte
+16/01/2025;card;35.76;Latte
+16/01/2025;card;35.76;Cappuccino
+16/01/2025;card;35.76;Hot Chocolate
+16/01/2025;card;35.76;Hot Chocolate
+16/01/2025;card;25.96;Cortado
+17/01/2025;card;35.76;Cocoa
+17/01/2025;card;35.76;Latte
+17/01/2025;card;35.76;Cappuccino
+17/01/2025;card;30.86;Americano with Milk
+17/01/2025;card;30.86;Americano with Milk
+17/01/2025;card;35.76;Cocoa
+17/01/2025;card;35.76;Cocoa
+17/01/2025;card;35.76;Hot Chocolate
+17/01/2025;card;35.76;Hot Chocolate
+18/01/2025;card;30.86;Americano with Milk
+18/01/2025;card;35.76;Hot Chocolate
+18/01/2025;card;35.76;Latte
+18/01/2025;card;35.76;Hot Chocolate
+20/01/2025;card;30.86;Americano with Milk
+20/01/2025;card;30.86;Americano with Milk
+20/01/2025;card;25.96;Cortado
+20/01/2025;card;25.96;Americano
+20/01/2025;card;25.96;Cortado
+20/01/2025;card;30.86;Americano with Milk
+20/01/2025;card;35.76;Hot Chocolate
+20/01/2025;card;35.76;Cappuccino
+20/01/2025;card;35.76;Cappuccino
+20/01/2025;card;35.76;Latte
+21/01/2025;card;35.76;Cocoa
+21/01/2025;card;25.96;Cortado
+21/01/2025;card;30.86;Americano with Milk
+21/01/2025;card;25.96;Americano
+21/01/2025;card;35.76;Hot Chocolate
+21/01/2025;card;35.76;Latte
+21/01/2025;card;35.76;Latte
+21/01/2025;card;25.96;Americano
+22/01/2025;card;21.06;Espresso
+22/01/2025;card;30.86;Americano with Milk
+22/01/2025;card;35.76;Cocoa
+22/01/2025;card;30.86;Americano with Milk
+22/01/2025;card;35.76;Cappuccino
+22/01/2025;card;35.76;Latte
+22/01/2025;card;30.86;Americano with Milk
+24/01/2025;card;35.76;Cappuccino
+24/01/2025;card;25.96;Cortado
+24/01/2025;card;35.76;Cocoa
+24/01/2025;card;25.96;Americano
+24/01/2025;card;35.76;Cocoa
+24/01/2025;card;35.76;Hot Chocolate
+24/01/2025;card;35.76;Latte
+25/01/2025;card;35.76;Cappuccino
+25/01/2025;card;35.76;Cappuccino
+25/01/2025;card;25.96;Americano
+26/01/2025;card;25.96;Americano
+26/01/2025;card;21.06;Espresso
+27/01/2025;card;25.96;Cortado
+27/01/2025;card;25.96;Americano
+27/01/2025;card;35.76;Cappuccino
+27/01/2025;card;30.86;Americano with Milk
+27/01/2025;card;30.86;Americano with Milk
+27/01/2025;card;25.96;Cortado
+27/01/2025;card;30.86;Americano with Milk
+27/01/2025;card;35.76;Latte
+27/01/2025;card;35.76;Latte
+27/01/2025;card;35.76;Latte
+28/01/2025;card;35.76;Latte
+28/01/2025;card;25.96;Americano
+28/01/2025;card;30.86;Americano with Milk
+28/01/2025;card;25.96;Americano
+28/01/2025;card;35.76;Cocoa
+28/01/2025;card;25.96;Cortado
+28/01/2025;card;25.96;Americano
+28/01/2025;card;35.76;Latte
+28/01/2025;card;35.76;Cappuccino
+29/01/2025;card;25.96;Americano
+29/01/2025;card;25.96;Americano
+29/01/2025;card;30.86;Americano with Milk
+29/01/2025;card;21.06;Espresso
+30/01/2025;card;30.86;Americano with Milk
+30/01/2025;card;30.86;Americano with Milk
+30/01/2025;card;25.96;Cortado
+30/01/2025;card;35.76;Hot Chocolate
+30/01/2025;card;25.96;Americano
+30/01/2025;card;30.86;Americano with Milk
+30/01/2025;card;35.76;Hot Chocolate
+30/01/2025;card;30.86;Americano with Milk
+30/01/2025;card;25.96;Cortado
+31/01/2025;card;25.96;Americano
+31/01/2025;card;30.86;Americano with Milk
+31/01/2025;card;30.86;Americano with Milk
+31/01/2025;card;35.76;Cocoa
+31/01/2025;card;35.76;Cappuccino
+31/01/2025;card;35.76;Cappuccino
+31/01/2025;card;35.76;Latte
+31/01/2025;card;35.76;Latte
+31/01/2025;card;35.76;Cappuccino
+31/01/2025;card;30.86;Americano with Milk
+31/01/2025;card;30.86;Americano with Milk
+31/01/2025;card;25.96;Americano
+01/02/2025;card;30.86;Americano with Milk
+01/02/2025;card;30.86;Americano with Milk
+01/02/2025;card;25.96;Cortado
+01/02/2025;card;25.96;Cortado
+01/02/2025;card;35.76;Cappuccino
+01/02/2025;card;35.76;Cappuccino
+01/02/2025;card;35.76;Latte
+01/02/2025;card;35.76;Cappuccino
+01/02/2025;card;30.86;Americano with Milk
+01/02/2025;card;30.86;Americano with Milk
+01/02/2025;card;30.86;Americano with Milk
+02/02/2025;card;35.76;Cappuccino
+02/02/2025;card;35.76;Cappuccino
+02/02/2025;card;35.76;Latte
+02/02/2025;card;35.76;Latte
+02/02/2025;card;30.86;Americano with Milk
+02/02/2025;card;35.76;Latte
+02/02/2025;card;35.76;Latte
+03/02/2025;card;35.76;Cappuccino
+03/02/2025;card;30.86;Americano with Milk
+03/02/2025;card;21.06;Espresso
+03/02/2025;card;30.86;Americano with Milk
+03/02/2025;card;25.96;Americano
+03/02/2025;card;35.76;Cappuccino
+03/02/2025;card;30.86;Americano with Milk
+03/02/2025;card;35.76;Cappuccino
+03/02/2025;card;35.76;Cappuccino
+03/02/2025;card;25.96;Americano
+03/02/2025;card;25.96;Americano
+03/02/2025;card;35.76;Latte
+03/02/2025;card;35.76;Latte
+03/02/2025;card;35.76;Latte
+03/02/2025;card;25.96;Americano
+03/02/2025;card;35.76;Cocoa
+03/02/2025;card;30.86;Americano with Milk
+03/02/2025;card;30.86;Americano with Milk
+03/02/2025;card;30.86;Americano with Milk
+03/02/2025;card;35.76;Hot Chocolate
+03/02/2025;card;35.76;Latte
+03/02/2025;card;35.76;Hot Chocolate
+03/02/2025;card;30.86;Americano with Milk
+03/02/2025;card;25.96;Americano
+03/02/2025;card;35.76;Cocoa
+04/02/2025;card;30.86;Americano with Milk
+04/02/2025;card;25.96;Americano
+04/02/2025;card;30.86;Americano with Milk
+04/02/2025;card;25.96;Cortado
+04/02/2025;card;25.96;Americano
+04/02/2025;card;30.86;Americano with Milk
+04/02/2025;card;25.96;Americano
+04/02/2025;card;30.86;Americano with Milk
+04/02/2025;card;35.76;Cocoa
+04/02/2025;card;35.76;Cocoa
+04/02/2025;card;35.76;Cocoa
+04/02/2025;card;25.96;Cortado
+05/02/2025;card;30.86;Americano with Milk
+05/02/2025;card;30.86;Americano with Milk
+05/02/2025;card;25.96;Americano
+05/02/2025;card;25.96;Americano
+05/02/2025;card;25.96;Americano
+05/02/2025;card;30.86;Americano with Milk
+05/02/2025;card;25.96;Americano
+05/02/2025;card;25.96;Americano
+05/02/2025;card;21.06;Espresso
+05/02/2025;card;21.06;Espresso
+05/02/2025;card;35.76;Cappuccino
+05/02/2025;card;35.76;Cappuccino
+05/02/2025;card;35.76;Hot Chocolate
+05/02/2025;card;35.76;Latte
+05/02/2025;card;35.76;Latte
+05/02/2025;card;35.76;Cocoa
+05/02/2025;card;35.76;Hot Chocolate
+05/02/2025;card;35.76;Cappuccino
+05/02/2025;card;35.76;Cappuccino
+05/02/2025;card;35.76;Cocoa
+05/02/2025;card;30.86;Americano with Milk
+05/02/2025;card;35.76;Cappuccino
+05/02/2025;card;35.76;Hot Chocolate
+05/02/2025;card;35.76;Cocoa
+06/02/2025;card;30.86;Americano with Milk
+06/02/2025;card;25.96;Americano
+06/02/2025;card;30.86;Americano with Milk
+06/02/2025;card;35.76;Cappuccino
+06/02/2025;card;35.76;Cocoa
+06/02/2025;card;35.76;Cocoa
+06/02/2025;card;35.76;Cocoa
+06/02/2025;card;35.76;Cappuccino
+06/02/2025;card;21.06;Espresso
+06/02/2025;card;35.76;Cocoa
+06/02/2025;card;35.76;Cocoa
+06/02/2025;card;35.76;Latte
+07/02/2025;card;30.86;Americano with Milk
+07/02/2025;card;30.86;Americano with Milk
+07/02/2025;card;25.96;Americano
+07/02/2025;card;35.76;Cocoa
+07/02/2025;card;30.86;Americano with Milk
+07/02/2025;card;25.96;Americano
+07/02/2025;card;25.96;Cortado
+07/02/2025;card;35.76;Latte
+07/02/2025;card;35.76;Hot Chocolate
+07/02/2025;card;35.76;Latte
+07/02/2025;card;35.76;Cocoa
+07/02/2025;card;35.76;Cocoa
+07/02/2025;card;25.96;Cortado
+07/02/2025;card;35.76;Cocoa
+07/02/2025;card;35.76;Cocoa
+07/02/2025;card;25.96;Cortado
+08/02/2025;card;25.96;Americano
+08/02/2025;card;30.86;Americano with Milk
+08/02/2025;card;25.96;Cortado
+08/02/2025;card;25.96;Americano
+08/02/2025;card;25.96;Americano
+08/02/2025;card;25.96;Americano
+08/02/2025;card;25.96;Americano
+08/02/2025;card;25.96;Americano
+09/02/2025;card;35.76;Cocoa
+09/02/2025;card;30.86;Americano with Milk
+09/02/2025;card;25.96;Americano
+09/02/2025;card;35.76;Latte
+09/02/2025;card;35.76;Cocoa
+09/02/2025;card;35.76;Latte
+09/02/2025;card;35.76;Hot Chocolate
+09/02/2025;card;35.76;Cocoa
+09/02/2025;card;25.96;Cortado
+10/02/2025;card;25.96;Americano
+10/02/2025;card;25.96;Americano
+10/02/2025;card;25.96;Americano
+10/02/2025;card;30.86;Americano with Milk
+10/02/2025;card;25.96;Americano
+10/02/2025;card;35.76;Cocoa
+10/02/2025;card;30.86;Americano with Milk
+10/02/2025;card;25.96;Americano
+10/02/2025;card;35.76;Latte
+10/02/2025;card;25.96;Americano
+10/02/2025;card;35.76;Cocoa
+10/02/2025;card;35.76;Cocoa
+10/02/2025;card;35.76;Cappuccino
+10/02/2025;card;30.86;Americano with Milk
+10/02/2025;card;35.76;Latte
+10/02/2025;card;35.76;Hot Chocolate
+10/02/2025;card;35.76;Cocoa
+10/02/2025;card;25.96;Americano
+10/02/2025;card;30.86;Americano with Milk
+10/02/2025;card;35.76;Latte
+10/02/2025;card;35.76;Latte
+10/02/2025;cash;25.0;Americano
+10/02/2025;cash;25.0;Americano
+11/02/2025;card;30.86;Americano with Milk
+11/02/2025;card;35.76;Cocoa
+11/02/2025;card;35.76;Hot Chocolate
+11/02/2025;card;30.86;Americano with Milk
+11/02/2025;card;21.06;Espresso
+11/02/2025;card;35.76;Latte
+11/02/2025;card;30.86;Americano with Milk
+11/02/2025;card;30.86;Americano with Milk
+11/02/2025;card;25.96;Americano
+11/02/2025;card;30.86;Americano with Milk
+11/02/2025;card;35.76;Latte
+11/02/2025;card;35.76;Cocoa
+12/02/2025;card;35.76;Cappuccino
+11/02/2025;card;25.96;Americano
+12/02/2025;card;35.76;Cocoa
+12/02/2025;card;30.86;Americano with Milk
+11/02/2025;card;25.96;Americano
+11/02/2025;card;25.0;Americano
+12/02/2025;card;25.96;Americano
+12/02/2025;card;35.76;Hot Chocolate
+12/02/2025;card;35.76;Hot Chocolate
+12/02/2025;card;35.76;Latte
+12/02/2025;card;35.76;Hot Chocolate
+12/02/2025;card;25.96;Americano
+12/02/2025;card;25.96;Americano
+12/02/2025;card;35.76;Cappuccino
+12/02/2025;card;25.96;Americano
+12/02/2025;card;35.76;Latte
+12/02/2025;card;35.76;Cocoa
+12/02/2025;card;35.76;Cappuccino
+13/02/2025;card;30.86;Americano with Milk
+12/02/2025;card;25.96;Americano
+13/02/2025;card;21.06;Espresso
+13/02/2025;card;35.76;Cocoa
+13/02/2025;card;30.86;Americano with Milk
+13/02/2025;card;30.86;Americano with Milk
+12/02/2025;card;25.96;Americano
+12/02/2025;card;25.96;Americano
+13/02/2025;card;30.86;Americano with Milk
+13/02/2025;card;30.86;Americano with Milk
+13/02/2025;card;35.76;Latte
+13/02/2025;card;35.76;Cappuccino
+13/02/2025;card;35.76;Latte
+13/02/2025;card;25.96;Americano
+14/02/2025;card;35.76;Hot Chocolate
+13/02/2025;card;25.96;Americano
+14/02/2025;card;21.06;Espresso
+14/02/2025;card;30.86;Americano with Milk
+14/02/2025;card;35.76;Cappuccino
+14/02/2025;card;35.76;Cappuccino
+14/02/2025;card;35.76;Latte
+14/02/2025;card;35.76;Hot Chocolate
+14/02/2025;card;35.76;Cappuccino
+13/02/2025;card;25.96;Americano
+14/02/2025;card;35.76;Cocoa
+14/02/2025;card;21.06;Espresso
+14/02/2025;card;30.86;Americano with Milk
+14/02/2025;card;25.96;Americano
+15/02/2025;card;35.76;Cappuccino
+15/02/2025;card;35.76;Cappuccino
+14/02/2025;card;25.96;Americano
+15/02/2025;card;30.86;Americano with Milk
+15/02/2025;card;30.86;Americano with Milk
+15/02/2025;card;35.76;Cappuccino
+14/02/2025;card;25.96;Americano
+15/02/2025;card;35.76;Hot Chocolate
+15/02/2025;card;35.76;Hot Chocolate
+14/02/2025;card;25.96;Americano
+15/02/2025;card;25.96;Americano
+16/02/2025;card;30.86;Americano with Milk
+16/02/2025;card;35.76;Hot Chocolate
+15/02/2025;card;25.96;Americano
+16/02/2025;card;35.76;Hot Chocolate
+16/02/2025;card;35.76;Latte
+16/02/2025;card;35.76;Hot Chocolate
+16/02/2025;card;30.86;Americano with Milk
+16/02/2025;card;30.86;Americano with Milk
+17/02/2025;card;35.76;Cappuccino
+15/02/2025;card;25.0;Americano
+16/02/2025;card;25.96;Americano
+17/02/2025;card;30.86;Americano with Milk
+17/02/2025;card;35.76;Hot Chocolate
+17/02/2025;card;30.86;Americano with Milk
+16/02/2025;card;25.96;Americano
+17/02/2025;card;30.86;Americano with Milk
+17/02/2025;card;21.06;Espresso
+17/02/2025;card;35.76;Cappuccino
+17/02/2025;card;35.76;Latte
+17/02/2025;card;30.86;Americano with Milk
+17/02/2025;card;35.76;Latte
+17/02/2025;card;21.06;Espresso
+16/02/2025;card;25.96;Americano
+17/02/2025;card;30.86;Americano with Milk
+17/02/2025;card;25.96;Americano
+17/02/2025;card;25.96;Americano
+17/02/2025;card;25.96;Americano
+17/02/2025;card;35.76;Latte
+17/02/2025;card;25.96;Americano
+17/02/2025;card;25.96;Americano
+17/02/2025;card;25.96;Americano
+17/02/2025;card;25.96;Americano
+18/02/2025;card;30.86;Americano with Milk
+18/02/2025;card;30.86;Americano with Milk
+18/02/2025;card;35.76;Cocoa
+18/02/2025;card;25.96;Americano
+18/02/2025;card;30.86;Americano with Milk
+18/02/2025;card;35.76;Hot Chocolate
+18/02/2025;card;30.86;Americano with Milk
+18/02/2025;card;21.06;Espresso
+18/02/2025;card;35.76;Cocoa
+18/02/2025;card;35.76;Cocoa
+18/02/2025;card;35.76;Cocoa
+18/02/2025;card;35.76;Cocoa
+18/02/2025;card;35.76;Hot Chocolate
+18/02/2025;card;30.86;Americano with Milk
+19/02/2025;card;35.76;Cappuccino
+18/02/2025;card;25.96;Americano
+18/02/2025;card;25.96;Americano
+19/02/2025;card;35.76;Cappuccino
+18/02/2025;card;25.96;Americano
+19/02/2025;card;35.76;Hot Chocolate
+19/02/2025;card;30.86;Americano with Milk
+18/02/2025;card;25.96;Americano
+19/02/2025;card;35.76;Cocoa
+19/02/2025;card;25.96;Americano
+19/02/2025;card;35.76;Cappuccino
+19/02/2025;card;25.96;Americano
+19/02/2025;card;35.76;Cappuccino
+19/02/2025;card;30.86;Americano with Milk
+19/02/2025;card;35.76;Cappuccino
+19/02/2025;card;35.76;Latte
+19/02/2025;card;35.76;Cocoa
+19/02/2025;card;35.76;Hot Chocolate
+19/02/2025;card;35.76;Latte
+19/02/2025;card;35.76;Cocoa
+20/02/2025;card;35.76;Cappuccino
+19/02/2025;card;25.96;Americano
+20/02/2025;card;35.76;Cappuccino
+19/02/2025;card;25.96;Americano
+19/02/2025;card;25.96;Americano
+19/02/2025;card;25.96;Americano
+20/02/2025;card;30.86;Americano with Milk
+20/02/2025;card;35.76;Latte
+19/02/2025;cash;25.0;Americano
+19/02/2025;card;25.0;Americano
+20/02/2025;card;21.06;Espresso
+20/02/2025;card;35.76;Cappuccino
+20/02/2025;card;35.76;Cappuccino
+20/02/2025;card;35.76;Hot Chocolate
+20/02/2025;card;25.96;Americano
+20/02/2025;card;25.96;Americano
+20/02/2025;card;35.76;Hot Chocolate
+20/02/2025;card;35.76;Cocoa
+20/02/2025;card;35.76;Latte
+20/02/2025;card;25.96;Americano
+21/02/2025;card;35.76;Latte
+21/02/2025;card;35.76;Cappuccino
+21/02/2025;card;21.06;Espresso
+20/02/2025;card;25.96;Americano
+21/02/2025;card;30.86;Americano with Milk
+20/02/2025;card;25.96;Americano
+20/02/2025;card;25.96;Americano
+20/02/2025;card;25.96;Americano
+20/02/2025;card;25.96;Americano
+21/02/2025;card;25.96;Americano
+21/02/2025;card;25.96;Americano
+21/02/2025;card;35.76;Cappuccino
+21/02/2025;card;25.96;Americano
+21/02/2025;card;25.96;Americano
+21/02/2025;card;25.96;Americano
+21/02/2025;card;35.76;Cocoa
+21/02/2025;card;35.76;Latte
+21/02/2025;card;35.76;Hot Chocolate
+21/02/2025;card;35.76;Latte
+21/02/2025;card;35.76;Cocoa
+21/02/2025;card;35.76;Cocoa
+21/02/2025;card;35.76;Cappuccino
+22/02/2025;card;35.76;Hot Chocolate
+21/02/2025;card;25.96;Americano
+21/02/2025;card;25.96;Americano
+22/02/2025;card;21.06;Espresso
+22/02/2025;card;30.86;Americano with Milk
+23/02/2025;card;30.86;Americano with Milk
+23/02/2025;card;30.86;Americano with Milk
+23/02/2025;card;30.86;Americano with Milk
+23/02/2025;card;35.76;Cappuccino
+23/02/2025;card;35.76;Cocoa
+21/02/2025;card;25.96;Americano
+24/02/2025;card;30.86;Americano with Milk
+24/02/2025;card;35.76;Latte
+21/02/2025;card;25.96;Americano
+24/02/2025;card;30.86;Americano with Milk
+24/02/2025;card;30.86;Americano with Milk
+24/02/2025;card;35.76;Cocoa
+24/02/2025;card;35.76;Latte
+24/02/2025;card;35.76;Cocoa
+24/02/2025;card;30.86;Americano with Milk
+24/02/2025;card;35.76;Cocoa
+24/02/2025;card;35.76;Cappuccino
+24/02/2025;card;35.76;Latte
+21/02/2025;card;25.96;Americano
+21/02/2025;card;25.96;Americano
+24/02/2025;card;30.86;Americano with Milk
+24/02/2025;card;30.86;Americano with Milk
+24/02/2025;card;35.76;Latte
+24/02/2025;card;30.86;Americano with Milk
+24/02/2025;card;35.76;Hot Chocolate
+24/02/2025;card;35.76;Latte
+24/02/2025;card;35.76;Cocoa
+24/02/2025;card;35.76;Cocoa
+25/02/2025;card;30.86;Americano with Milk
+22/02/2025;card;25.96;Americano
+25/02/2025;card;30.86;Americano with Milk
+25/02/2025;card;21.06;Espresso
+22/02/2025;card;25.96;Americano
+23/02/2025;card;25.96;Americano
+25/02/2025;card;35.76;Cappuccino
+25/02/2025;card;35.76;Cappuccino
+23/02/2025;card;25.0;Americano
+24/02/2025;card;25.96;Americano
+25/02/2025;card;35.76;Cocoa
+25/02/2025;card;35.76;Cappuccino
+24/02/2025;card;25.96;Americano
+26/02/2025;card;30.86;Americano with Milk
+26/02/2025;card;30.86;Americano with Milk
+26/02/2025;card;35.76;Hot Chocolate
+26/02/2025;card;35.76;Cocoa
+26/02/2025;card;35.76;Latte
+24/02/2025;card;25.96;Americano
+25/02/2025;card;25.96;Americano
+26/02/2025;card;25.96;Cortado
+26/02/2025;card;35.76;Hot Chocolate
+25/02/2025;card;25.96;Americano
+25/02/2025;card;25.96;Americano
+26/02/2025;card;35.76;Latte
+26/02/2025;card;35.76;Hot Chocolate
+26/02/2025;card;35.76;Latte
+26/02/2025;card;30.86;Americano with Milk
+26/02/2025;card;35.76;Latte
+26/02/2025;card;35.76;Cappuccino
+27/02/2025;card;35.76;Cappuccino
+27/02/2025;card;35.76;Cappuccino
+27/02/2025;card;21.06;Espresso
+27/02/2025;card;35.76;Cocoa
+27/02/2025;card;35.76;Cocoa
+27/02/2025;card;30.86;Americano with Milk
+25/02/2025;card;25.96;Americano
+27/02/2025;card;35.76;Latte
+25/02/2025;card;25.96;Americano
+26/02/2025;card;25.96;Americano
+26/02/2025;card;25.96;Americano
+26/02/2025;card;25.96;Americano
+27/02/2025;card;35.76;Latte
+27/02/2025;card;35.76;Latte
+27/02/2025;card;35.76;Cappuccino
+27/02/2025;card;35.76;Cocoa
+27/02/2025;card;35.76;Cocoa
+27/02/2025;card;35.76;Latte
+27/02/2025;card;35.76;Cappuccino
+28/02/2025;card;30.86;Americano with Milk
+28/02/2025;card;30.86;Americano with Milk
+28/02/2025;card;35.76;Cappuccino
+28/02/2025;card;21.06;Espresso
+28/02/2025;card;30.86;Americano with Milk
+26/02/2025;card;25.96;Americano
+26/02/2025;card;25.96;Americano
+27/02/2025;card;25.96;Americano
+28/02/2025;card;35.76;Latte
+27/02/2025;card;25.96;Americano
+28/02/2025;card;35.76;Cocoa
+27/02/2025;card;25.96;Americano
+28/02/2025;card;35.76;Latte
+28/02/2025;card;30.86;Americano with Milk
+27/02/2025;card;25.96;Americano
+27/02/2025;card;25.96;Americano
+28/02/2025;card;35.76;Latte
+01/03/2025;card;35.76;Cappuccino
+28/02/2025;card;25.96;Americano
+28/02/2025;card;25.96;Americano
+01/03/2025;card;35.76;Latte
+28/02/2025;card;25.96;Americano
+01/03/2025;card;30.86;Americano with Milk
+01/03/2025;card;35.76;Cappuccino
+28/02/2025;card;25.96;Americano
+02/03/2025;card;35.76;Cocoa
+02/03/2025;card;35.76;Latte
+02/03/2025;card;30.86;Americano with Milk
+02/03/2025;card;30.86;Americano with Milk
+28/02/2025;card;25.96;Americano
+28/02/2025;card;25.96;Americano
+03/03/2025;card;35.76;Cappuccino
+03/03/2025;card;35.76;Cocoa
+03/03/2025;card;35.76;Latte
+03/03/2025;card;35.76;Hot Chocolate
+03/03/2025;card;35.76;Hot Chocolate
+03/03/2025;card;35.76;Cappuccino
+03/03/2025;card;35.76;Latte
+28/02/2025;card;25.96;Americano
+03/03/2025;card;35.76;Cocoa
+03/03/2025;card;35.76;Latte
+03/03/2025;card;35.76;Latte
+03/03/2025;card;35.76;Cappuccino
+03/03/2025;card;35.76;Cappuccino
+01/03/2025;card;25.96;Americano
+03/03/2025;card;30.86;Americano with Milk
+01/03/2025;card;25.96;Americano
+03/03/2025;card;35.76;Hot Chocolate
+01/03/2025;card;25.96;Americano
+03/03/2025;card;35.76;Hot Chocolate
+03/03/2025;card;35.76;Hot Chocolate
+03/03/2025;card;30.86;Americano with Milk
+03/03/2025;card;35.76;Latte
+04/03/2025;card;35.76;Cappuccino
+01/03/2025;card;25.96;Americano
+04/03/2025;card;30.86;Americano with Milk
+02/03/2025;card;25.96;Americano
+02/03/2025;card;25.96;Americano
+03/03/2025;card;25.96;Americano
+04/03/2025;card;30.86;Americano with Milk
+03/03/2025;card;25.96;Americano
+03/03/2025;card;25.96;Americano
+03/03/2025;card;25.96;Americano
+04/03/2025;card;25.96;Americano
+04/03/2025;card;35.76;Cocoa
+04/03/2025;card;25.96;Americano
+04/03/2025;card;35.76;Cocoa
+04/03/2025;card;35.76;Latte
+04/03/2025;card;35.76;Latte
+05/03/2025;card;30.86;Americano with Milk
+04/03/2025;card;25.96;Americano
+04/03/2025;card;25.96;Americano
+04/03/2025;card;25.96;Americano
+05/03/2025;card;35.76;Cappuccino
+05/03/2025;card;30.86;Americano with Milk
+05/03/2025;card;35.76;Cappuccino
+05/03/2025;card;35.76;Cocoa
+04/03/2025;card;25.96;Americano
+04/03/2025;card;25.96;Americano
+04/03/2025;card;25.96;Americano
+05/03/2025;card;35.76;Latte
+05/03/2025;card;35.76;Latte
+05/03/2025;card;35.76;Hot Chocolate
+05/03/2025;card;30.86;Americano with Milk
+05/03/2025;card;21.06;Espresso
+05/03/2025;card;35.76;Latte
+05/03/2025;card;35.76;Cappuccino
+05/03/2025;card;35.76;Cocoa
+06/03/2025;card;35.76;Hot Chocolate
+06/03/2025;card;21.06;Espresso
+06/03/2025;card;30.86;Americano with Milk
+04/03/2025;card;25.96;Americano
+05/03/2025;card;25.96;Americano
+05/03/2025;card;25.96;Americano
+06/03/2025;card;35.76;Cappuccino
+06/03/2025;card;35.76;Latte
+06/03/2025;card;30.86;Americano with Milk
+06/03/2025;card;35.76;Cocoa
+06/03/2025;card;35.76;Cappuccino
+06/03/2025;card;30.86;Americano with Milk
+07/03/2025;card;35.76;Cappuccino
+05/03/2025;card;25.96;Americano
+05/03/2025;card;25.96;Americano
+05/03/2025;card;25.96;Americano
+07/03/2025;card;35.76;Hot Chocolate
+07/03/2025;card;30.86;Americano with Milk
+07/03/2025;card;30.86;Americano with Milk
+07/03/2025;card;35.76;Cocoa
+07/03/2025;card;35.76;Cocoa
+07/03/2025;card;30.86;Americano with Milk
+07/03/2025;card;35.76;Hot Chocolate
+05/03/2025;card;25.96;Americano
+07/03/2025;card;35.76;Cappuccino
+07/03/2025;card;35.76;Latte
+07/03/2025;card;35.76;Latte
+07/03/2025;card;35.76;Latte
+07/03/2025;card;35.76;Hot Chocolate
+08/03/2025;card;30.86;Americano with Milk
+08/03/2025;card;30.86;Americano with Milk
+05/03/2025;cash;25.0;Americano
+05/03/2025;card;25.0;Americano
+06/03/2025;card;25.96;Americano
+08/03/2025;card;30.86;Americano with Milk
+06/03/2025;card;25.96;Americano
+08/03/2025;card;35.76;Cappuccino
+09/03/2025;card;21.06;Espresso
+09/03/2025;card;30.86;Americano with Milk
+09/03/2025;card;35.76;Cappuccino
+06/03/2025;card;25.96;Americano
+09/03/2025;card;35.76;Cappuccino
+07/03/2025;card;25.96;Americano
+09/03/2025;card;30.86;Americano with Milk
+09/03/2025;card;35.76;Cocoa
+07/03/2025;card;25.96;Americano
+10/03/2025;card;35.76;Latte
+10/03/2025;card;30.86;Americano with Milk
+10/03/2025;card;35.76;Hot Chocolate
+10/03/2025;card;35.76;Cocoa
+10/03/2025;card;35.76;Hot Chocolate
+07/03/2025;card;25.96;Americano
+07/03/2025;card;25.96;Americano
+10/03/2025;card;35.76;Hot Chocolate
+10/03/2025;card;35.76;Latte
+10/03/2025;card;35.76;Latte
+10/03/2025;card;35.76;Cappuccino
+10/03/2025;card;30.86;Americano with Milk
+08/03/2025;card;25.96;Americano
+10/03/2025;card;35.76;Latte
+10/03/2025;card;35.76;Latte
+10/03/2025;card;30.86;Americano with Milk
+08/03/2025;card;25.96;Americano
+11/03/2025;card;35.76;Cappuccino
+11/03/2025;card;35.76;Latte
+08/03/2025;card;25.96;Americano
+08/03/2025;card;25.96;Americano
+09/03/2025;card;25.96;Americano
+11/03/2025;card;35.76;Hot Chocolate
+11/03/2025;card;35.76;Cocoa
+11/03/2025;card;35.76;Hot Chocolate
+11/03/2025;card;35.76;Cappuccino
+11/03/2025;card;30.86;Americano with Milk
+11/03/2025;card;35.76;Latte
+11/03/2025;card;35.76;Cocoa
+12/03/2025;card;35.76;Cocoa
+12/03/2025;card;30.86;Americano with Milk
+12/03/2025;card;35.76;Cappuccino
+09/03/2025;card;25.96;Americano
+09/03/2025;card;25.0;Americano
+09/03/2025;card;25.0;Americano
+12/03/2025;card;35.76;Hot Chocolate
+12/03/2025;card;35.76;Latte
+12/03/2025;card;35.76;Latte
+12/03/2025;card;35.76;Cappuccino
+12/03/2025;card;35.76;Latte
+12/03/2025;card;35.76;Latte
+09/03/2025;cash;25.0;Americano
+12/03/2025;card;35.76;Cocoa
+09/03/2025;card;25.0;Americano
+12/03/2025;card;35.76;Cappuccino
+10/03/2025;card;25.96;Americano
+13/03/2025;card;35.76;Cappuccino
+13/03/2025;card;30.86;Americano with Milk
+13/03/2025;card;30.86;Americano with Milk
+13/03/2025;card;35.76;Latte
+13/03/2025;card;21.06;Espresso
+10/03/2025;card;25.96;Americano
+13/03/2025;card;30.86;Americano with Milk
+10/03/2025;card;25.96;Americano
+13/03/2025;card;35.76;Latte
+13/03/2025;card;30.86;Americano with Milk
+10/03/2025;card;25.96;Americano
+13/03/2025;card;35.76;Cappuccino
+10/03/2025;cash;25.0;Americano
+14/03/2025;card;30.86;Americano with Milk
+11/03/2025;card;25.96;Americano
+14/03/2025;card;35.76;Latte
+14/03/2025;card;21.06;Espresso
+11/03/2025;card;25.96;Americano
+11/03/2025;card;25.96;Americano
+14/03/2025;card;35.76;Latte
+14/03/2025;card;35.76;Cappuccino
+11/03/2025;card;25.96;Americano
+14/03/2025;card;35.76;Latte
+14/03/2025;card;35.76;Latte
+14/03/2025;card;35.76;Latte
+12/03/2025;card;25.96;Americano
+14/03/2025;card;35.76;Cocoa
+14/03/2025;card;35.76;Cocoa
+14/03/2025;card;35.76;Cocoa
+12/03/2025;card;25.96;Americano
+12/03/2025;card;25.96;Americano
+14/03/2025;card;35.76;Latte
+14/03/2025;card;35.76;Latte
+12/03/2025;card;25.96;Americano
+12/03/2025;card;25.96;Americano
+15/03/2025;card;30.86;Americano with Milk
+15/03/2025;card;35.76;Cappuccino
+12/03/2025;card;25.96;Americano
+15/03/2025;card;35.76;Cappuccino
+15/03/2025;card;30.86;Americano with Milk
+15/03/2025;card;30.86;Americano with Milk
+15/03/2025;card;35.76;Cappuccino
+16/03/2025;card;35.76;Cappuccino
+16/03/2025;card;30.86;Americano with Milk
+16/03/2025;card;35.76;Latte
+16/03/2025;card;35.76;Hot Chocolate
+12/03/2025;card;25.0;Americano
+13/03/2025;card;25.96;Americano
+13/03/2025;card;25.96;Americano
+13/03/2025;card;25.96;Americano
+17/03/2025;card;30.86;Americano with Milk
+14/03/2025;card;25.96;Americano
+14/03/2025;card;25.96;Americano
+17/03/2025;card;35.76;Cocoa
+17/03/2025;card;35.76;Cocoa
+17/03/2025;card;35.76;Latte
+17/03/2025;card;35.76;Cappuccino
+17/03/2025;card;35.76;Latte
+17/03/2025;card;35.76;Latte
+14/03/2025;card;25.96;Americano
+18/03/2025;card;30.86;Americano with Milk
+18/03/2025;card;35.76;Latte
+18/03/2025;card;35.76;Latte
+14/03/2025;card;25.96;Americano
+18/03/2025;card;35.76;Hot Chocolate
+18/03/2025;card;35.76;Hot Chocolate
+18/03/2025;card;30.86;Americano with Milk
+14/03/2025;card;25.96;Americano
+18/03/2025;card;30.86;Americano with Milk
+14/03/2025;card;25.96;Americano
+18/03/2025;card;35.76;Latte
+18/03/2025;card;21.06;Espresso
+18/03/2025;card;35.76;Cocoa
+18/03/2025;card;35.76;Cocoa
+18/03/2025;card;35.76;Cocoa
+18/03/2025;card;35.76;Cocoa
+18/03/2025;card;35.76;Latte
+14/03/2025;card;25.96;Americano
+14/03/2025;card;25.96;Americano
+19/03/2025;card;35.76;Cappuccino
+14/03/2025;card;25.96;Americano
+19/03/2025;card;35.76;Hot Chocolate
+14/03/2025;card;25.96;Americano
+15/03/2025;card;25.96;Americano
+19/03/2025;card;35.76;Latte
+19/03/2025;card;35.76;Latte
+19/03/2025;card;35.76;Latte
+16/03/2025;card;25.96;Americano
+19/03/2025;card;35.76;Cappuccino
+19/03/2025;card;35.76;Cappuccino
+17/03/2025;card;25.96;Americano
+17/03/2025;card;25.96;Americano
+19/03/2025;card;35.76;Cocoa
+19/03/2025;card;30.86;Americano with Milk
+19/03/2025;card;30.86;Americano with Milk
+19/03/2025;card;25.96;Cortado
+19/03/2025;card;21.06;Espresso
+19/03/2025;card;21.06;Espresso
+20/03/2025;card;30.86;Americano with Milk
+20/03/2025;card;30.86;Americano with Milk
+20/03/2025;card;30.86;Americano with Milk
+17/03/2025;card;25.96;Americano
+17/03/2025;card;25.96;Americano
+17/03/2025;card;25.96;Americano
+17/03/2025;card;25.96;Americano
+18/03/2025;card;25.96;Americano
+20/03/2025;card;21.06;Espresso
+20/03/2025;card;25.96;Cortado
+20/03/2025;card;35.76;Cappuccino
+20/03/2025;card;35.76;Cappuccino
+18/03/2025;card;25.96;Americano
+18/03/2025;card;25.96;Americano
+20/03/2025;card;35.76;Cappuccino
+19/03/2025;card;25.96;Americano
+20/03/2025;card;35.76;Hot Chocolate
+20/03/2025;card;35.76;Cocoa
+20/03/2025;card;35.76;Cappuccino
+20/03/2025;card;35.76;Latte
+21/03/2025;card;30.86;Americano with Milk
+21/03/2025;card;30.86;Americano with Milk
+19/03/2025;card;25.96;Americano
+19/03/2025;card;25.96;Americano
+19/03/2025;card;25.96;Americano
+21/03/2025;card;35.76;Cappuccino
+19/03/2025;card;25.96;Americano
+21/03/2025;card;35.76;Latte
+19/03/2025;card;25.96;Americano
+21/03/2025;card;35.76;Latte
+21/03/2025;card;35.76;Cappuccino
+21/03/2025;card;35.76;Cappuccino
+19/03/2025;card;25.96;Americano
+21/03/2025;card;35.76;Latte
+21/03/2025;card;35.76;Cappuccino
+21/03/2025;card;35.76;Hot Chocolate
+21/03/2025;card;35.76;Latte
+21/03/2025;card;35.76;Latte
+21/03/2025;card;35.76;Latte
+19/03/2025;card;25.96;Americano
+22/03/2025;card;30.86;Americano with Milk
+22/03/2025;card;30.86;Americano with Milk
+22/03/2025;card;35.76;Hot Chocolate
+22/03/2025;card;35.76;Cocoa
+22/03/2025;card;30.86;Americano with Milk
+20/03/2025;card;25.96;Americano
+20/03/2025;card;25.96;Americano
+22/03/2025;card;30.86;Americano with Milk
+22/03/2025;card;21.06;Espresso
+22/03/2025;card;35.76;Latte
+22/03/2025;card;30.86;Americano with Milk
+22/03/2025;card;30.86;Americano with Milk
+23/03/2025;card;35.76;Latte
+23/03/2025;card;35.76;Cappuccino
+23/03/2025;card;35.76;Cocoa
+23/03/2025;card;35.76;Cocoa
+20/03/2025;card;25.96;Americano
+23/03/2025;card;35.76;Latte
+08/02/2025;cash;15.0;Tea
+08/02/2025;cash;15.0;Tea
+08/02/2025;card;20.0;Espresso
+08/02/2025;card;30.0;Chocolate with coffee
+08/02/2025;cash;27.0;Chocolate with milk
+08/02/2025;card;33.0;Espresso
+08/02/2025;cash;29.0;Coffee with Irish whiskey
+08/02/2025;cash;27.0;Irish whiskey with milk
+09/02/2025;card;28.0;Double Irish whiskey
+09/02/2025;cash;30.0;Chocolate with coffee
+09/02/2025;cash;27.0;Double espresso
+09/02/2025;cash;25.0;Americano with Milk
+09/02/2025;card;20.0;Espresso
+09/02/2025;card;30.0;Cappuccino
+09/02/2025;card;32.0;Double espresso with milk
+09/02/2025;card;28.0;Double Irish whiskey
+09/02/2025;card;28.0;Caramel with Irish whiskey
+09/02/2025;card;33.0;Latte
+09/02/2025;card;33.0;Latte
+09/02/2025;card;25.0;Americano with Milk
+09/02/2025;card;33.0;Latte
+09/02/2025;card;15.0;Tea
+09/02/2025;card;28.0;Caramel with Irish whiskey
+09/02/2025;cash;29.0;Coffee with Irish whiskey
+20/03/2025;card;25.96;Americano
+20/03/2025;card;25.96;Americano
+10/02/2025;cash;27.0;Chocolate with milk
+11/02/2025;card;15.0;Tea
+20/03/2025;card;25.96;Americano
+12/02/2025;cash;27.0;Chocolate with milk
+13/02/2025;card;33.0;Latte
+13/02/2025;card;32.0;Double espresso with milk
+13/02/2025;card;30.0;Cappuccino
+13/02/2025;card;25.0;Americano with Milk
+14/02/2025;card;20.0;Espresso
+14/02/2025;cash;20.0;Espresso
+14/02/2025;card;28.0;Double Irish whiskey
+14/02/2025;cash;20.0;Espresso
+14/02/2025;card;20.0;Espresso
+14/02/2025;cash;27.0;Chocolate with milk
+14/02/2025;card;29.0;Coffee with Irish whiskey
+14/02/2025;card;28.0;Super chocolate
+14/02/2025;card;28.0;Double Irish whiskey
+20/03/2025;card;25.96;Americano
+15/02/2025;card;27.0;Double vanilla
+15/02/2025;cash;30.0;Mochaccino
+15/02/2025;cash;27.0;Irish whiskey with milk
+15/02/2025;card;15.0;Tea
+15/02/2025;card;25.0;Americano with Milk
+15/02/2025;card;25.0;Americano with Milk
+16/02/2025;card;33.0;Latte
+16/02/2025;card;28.0;Caramel with chocolate
+16/02/2025;cash;25.0;Irish whiskey
+16/02/2025;cash;20.0;Double vanilla
+16/02/2025;card;33.0;Latte
+16/02/2025;card;29.0;Coffee with Irish whiskey
+16/02/2025;card;30.0;Cappuccino
+16/02/2025;card;28.0;Caramel coffee
+17/02/2025;card;20.0;Espresso
+17/02/2025;cash;30.0;Cappuccino
+17/02/2025;card;28.0;Caramel with Irish whiskey
+17/02/2025;cash;25.0;Americano with Milk
+17/02/2025;cash;20.0;Espresso
+17/02/2025;card;30.0;Cappuccino
+17/02/2025;cash;29.0;Coffee with Irish whiskey
+17/02/2025;cash;25.0;Americano with Milk
+18/02/2025;cash;28.0;Vanilla with Irish whiskey
+18/02/2025;card;25.0;Americano with Milk
+18/02/2025;card;30.0;Cappuccino
+18/02/2025;card;25.0;Americano with Milk
+20/03/2025;card;25.96;Americano
+21/03/2025;card;25.96;Americano
+19/02/2025;cash;25.0;Americano with Milk
+19/02/2025;card;20.0;Espresso
+20/02/2025;card;30.0;Cappuccino
+20/02/2025;cash;30.0;Mochaccino
+20/02/2025;card;29.0;Coffee with Irish whiskey
+20/02/2025;cash;25.0;Americano with Milk
+20/02/2025;cash;20.0;Espresso
+20/02/2025;card;33.0;Latte
+20/02/2025;card;30.0;Cappuccino
+20/02/2025;card;25.0;Chocolate
+20/02/2025;card;25.0;Americano with Milk
+20/02/2025;cash;25.0;Americano with Milk
+20/02/2025;card;28.0;Double Irish whiskey
+21/02/2025;cash;25.0;Irish whiskey
+21/02/2025;card;30.0;Mochaccino
+21/02/2025;card;25.0;Irish whiskey
+21/02/2025;cash;25.0;Americano with Milk
+21/02/2025;card;25.0;Americano with Milk
+21/02/2025;card;28.0;Double Irish whiskey
+21/02/2025;cash;20.0;Espresso
+21/02/2025;card;33.0;Latte
+21/02/2025;cash;25.0;Americano with Milk
+21/02/2025;card;33.0;Latte
+21/02/2025;cash;15.0;Tea
+22/02/2025;card;28.0;Caramel with chocolate
+22/02/2025;card;33.0;Latte
+22/02/2025;card;25.0;Americano with Milk
+22/02/2025;card;29.0;Coffee with Irish whiskey
+23/02/2025;card;28.0;Double Irish whiskey
+21/03/2025;card;25.96;Americano
+23/02/2025;card;25.0;Americano with Milk
+23/02/2025;cash;28.0;Double Irish whiskey
+24/02/2025;card;15.0;Tea
+24/02/2025;card;28.0;Caramel with Irish whiskey
+24/02/2025;card;28.0;Caramel with Irish whiskey
+24/02/2025;card;25.0;Caramel with milk
+25/02/2025;card;29.0;Coffee with Irish whiskey
+25/02/2025;card;33.0;Latte
+26/02/2025;cash;25.0;Americano with Milk
+26/02/2025;cash;25.0;Americano with Milk
+26/02/2025;cash;25.0;Irish whiskey
+26/02/2025;card;33.0;Latte
+26/02/2025;card;27.0;Irish whiskey with milk
+26/02/2025;cash;15.0;Tea
+26/02/2025;cash;20.0;Espresso
+26/02/2025;card;15.0;Tea
+26/02/2025;card;15.0;Tea
+26/02/2025;card;15.0;Tea
+26/02/2025;card;15.0;Tea
+26/02/2025;cash;33.0;Latte
+26/02/2025;card;33.0;Latte
+26/02/2025;card;27.0;Irish whiskey with milk
+26/02/2025;card;29.0;Coffee with Irish whiskey
+26/02/2025;card;25.0;Caramel with milk
+26/02/2025;card;28.0;Caramel with chocolate
+27/02/2025;cash;25.0;Americano with Milk
+27/02/2025;cash;15.0;Tea
+28/02/2025;card;25.0;Americano with Milk
+28/02/2025;cash;20.0;Espresso
+28/02/2025;cash;33.0;Latte
+28/02/2025;cash;33.0;Latte
+28/02/2025;cash;30.0;Cappuccino
+28/02/2025;cash;25.0;Americano with Milk
+28/02/2025;card;28.0;Super chocolate
+28/02/2025;card;28.0;Double Irish whiskey
+28/02/2025;card;25.0;Americano with Milk
+01/03/2025;cash;30.0;Cappuccino
+01/03/2025;cash;25.0;Americano with Milk
+01/03/2025;cash;15.0;Tea
+01/03/2025;card;27.0;Chocolate with milk
+01/03/2025;card;27.0;Irish whiskey with milk
+02/03/2025;card;25.0;Americano with Milk
+02/03/2025;card;30.0;Cappuccino
+02/03/2025;card;28.0;Caramel coffee
+02/03/2025;cash;28.0;Coffee with chocolate
+02/03/2025;cash;30.0;Cappuccino
+02/03/2025;cash;28.0;Super chocolate
+02/03/2025;card;25.0;Irish whiskey
+02/03/2025;card;27.0;Chocolate with milk
+02/03/2025;card;27.0;Irish whiskey with milk
+02/03/2025;card;33.0;Latte
+02/03/2025;cash;25.0;Caramel with milk
+03/03/2025;card;25.0;Americano with Milk
+03/03/2025;card;25.0;Irish whiskey
+03/03/2025;card;25.0;Irish whiskey
+03/03/2025;card;27.0;Irish with chocolate
+03/03/2025;card;28.0;Caramel with Irish whiskey
+03/03/2025;card;25.0;Americano with Milk
+05/03/2025;card;25.0;Irish whiskey
+05/03/2025;card;27.0;Vanilla coffee
+05/03/2025;cash;20.0;Espresso
+21/03/2025;card;25.96;Americano
+05/03/2025;cash;27.0;Irish whiskey with milk
+05/03/2025;card;33.0;Latte
+05/03/2025;card;25.0;Americano with Milk
+21/03/2025;card;25.96;Americano
+07/03/2025;card;27.0;Double ristretto
+07/03/2025;card;25.0;Americano with Milk
+07/03/2025;card;27.0;Irish with chocolate
+07/03/2025;card;25.0;Irish whiskey
+07/03/2025;cash;27.0;Chocolate with milk
+08/03/2025;card;25.0;Americano with Milk
+08/03/2025;card;20.0;Espresso
+08/03/2025;card;30.0;Hot milkshake
+08/03/2025;card;28.0;Caramel with chocolate
+21/03/2025;card;25.96;Americano
+21/03/2025;card;25.96;Americano
+21/03/2025;card;25.96;Americano
+09/03/2025;card;30.0;Mochaccino
+22/03/2025;card;25.96;Americano
+09/03/2025;card;28.0;Vanilla with Irish whiskey
+09/03/2025;card;27.0;Irish whiskey with milk
+09/03/2025;cash;27.0;Chocolate with milk
+22/03/2025;card;25.96;Americano
+10/03/2025;card;27.0;Irish whiskey with milk
+10/03/2025;card;27.0;Irish whiskey with milk
+10/03/2025;card;30.0;Cappuccino
+11/03/2025;card;30.0;Cappuccino
+11/03/2025;cash;27.0;Chocolate with milk
+11/03/2025;cash;28.0;Super chocolate
+11/03/2025;card;27.0;Irish with chocolate
+11/03/2025;card;27.0;Irish with chocolate
+12/03/2025;card;33.0;Latte
+23/03/2025;card;25.96;Americano
+12/03/2025;card;25.0;Americano with Milk
+12/03/2025;card;28.0;Double Irish whiskey
+12/03/2025;card;25.0;Americano with Milk
+12/03/2025;card;25.0;Americano with Milk
+12/03/2025;card;27.0;Irish whiskey with milk
+12/03/2025;card;27.0;Irish whiskey with milk
+14/03/2025;card;25.0;Americano with Milk
+14/03/2025;card;28.0;Double Irish whiskey
+14/03/2025;card;33.0;Latte
+14/03/2025;card;27.0;Irish whiskey with milk
+15/03/2025;card;15.0;Tea
+15/03/2025;card;20.0;Espresso
+15/03/2025;card;25.0;Irish whiskey
+15/03/2025;card;25.0;Irish whiskey
+15/03/2025;card;27.0;Irish whiskey with milk
+15/03/2025;card;27.0;Chocolate with milk
+15/03/2025;card;28.0;Caramel with Irish whiskey
+15/03/2025;card;25.0;Irish whiskey
+15/03/2025;card;25.0;Americano with Milk
+15/03/2025;card;33.0;Latte
+15/03/2025;card;30.0;Cappuccino
+16/03/2025;card;25.0;Americano with Milk
+16/03/2025;card;25.0;Americano with Milk
+16/03/2025;cash;25.0;Americano with Milk
+16/03/2025;card;29.0;Coffee with Irish whiskey
+17/03/2025;card;29.0;Coffee with Irish whiskey
+17/03/2025;card;25.0;Irish whiskey
+17/03/2025;card;33.0;Latte
+17/03/2025;card;29.0;Coffee with Irish whiskey
+17/03/2025;card;29.0;Coffee with Irish whiskey
+18/03/2025;card;29.0;Coffee with Irish whiskey
+18/03/2025;cash;28.0;Double Irish whiskey
+18/03/2025;cash;20.0;Espresso
+18/03/2025;card;25.0;Irish whiskey
+18/03/2025;card;30.0;Chocolate with coffee
+18/03/2025;card;30.0;Chocolate with coffee
+19/03/2025;card;25.0;Irish whiskey
+19/03/2025;card;27.0;Chocolate with milk
+19/03/2025;cash;30.0;Mochaccino
+19/03/2025;cash;33.0;Latte
+19/03/2025;cash;25.0;Double chocolate
+20/03/2025;card;25.0;Irish whiskey
+20/03/2025;card;33.0;Latte
+20/03/2025;cash;30.0;Chocolate with coffee
+21/03/2025;card;25.0;Irish whiskey
+21/03/2025;card;27.0;Chocolate with milk
+21/03/2025;card;28.0;Super chocolate
+21/03/2025;card;25.0;Americano with Milk
+22/03/2025;card;27.0;Irish whiskey with milk
+22/03/2025;card;27.0;Irish with chocolate
+22/03/2025;card;25.0;Irish whiskey
+22/03/2025;card;15.0;Tea
+22/03/2025;cash;25.0;Irish whiskey
+22/03/2025;card;28.0;Caramel with Irish whiskey
+22/03/2025;cash;22.0;Caramel
+22/03/2025;card;25.0;Americano with Milk
+22/03/2025;card;25.0;Americano with Milk
+22/03/2025;card;29.0;Coffee with Irish whiskey
+23/03/2025;cash;25.0;Irish whiskey
+23/03/2025;cash;25.0;Americano with Milk
+23/03/2025;cash;25.0;Americano with Milk
+23/03/2025;cash;30.0;Cappuccino
+23/03/2025;card;25.0;Irish whiskey
+23/03/2025;card;28.0;Super chocolate
+23/03/2025;card;28.0;Vanilla with Irish whiskey
+23/03/2025;card;29.0;Coffee with Irish whiskey

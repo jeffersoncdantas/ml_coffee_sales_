@@ -1,0 +1,189 @@
+date,coffee_name,sales
+2024-09-01,Americano with Milk,104.0
+2024-10-01,Americano with Milk,82.0
+2024-11-01,Americano with Milk,52.0
+2024-12-01,Americano with Milk,57.0
+2025-01-01,Americano with Milk,52.0
+2025-02-01,Americano with Milk,109.0
+2025-03-01,Americano with Milk,72.0
+2025-04-01,Americano with Milk,72.0
+2025-05-01,Americano with Milk,61.0
+2025-06-01,Americano with Milk,102.0
+2025-07-01,Americano with Milk,55.0
+2025-08-01,Americano with Milk,100.0
+2025-09-01,Americano with Milk,55.0
+2025-10-01,Americano with Milk,100.0
+2025-11-01,Americano with Milk,55.0
+2025-12-01,Americano with Milk,100.0
+2026-01-01,Americano with Milk,55.0
+2026-02-01,Americano with Milk,100.0
+2026-03-01,Americano with Milk,55.0
+2024-03-01,Latte,48.0
+2024-04-01,Latte,31.0
+2024-05-01,Latte,58.0
+2024-06-01,Latte,50.0
+2024-07-01,Latte,56.0
+2024-08-01,Latte,58.0
+2024-09-01,Latte,94.0
+2024-10-01,Latte,120.0
+2024-11-01,Latte,68.0
+2024-12-01,Latte,47.0
+2025-01-01,Latte,41.0
+2025-02-01,Latte,70.0
+2025-03-01,Latte,65.0
+2025-04-01,Latte,62.0
+2025-05-01,Latte,58.0
+2025-06-01,Latte,59.0
+2025-07-01,Latte,60.0
+2025-08-01,Latte,61.0
+2025-09-01,Latte,62.0
+2025-10-01,Latte,63.0
+2025-11-01,Latte,62.0
+2025-12-01,Latte,62.0
+2026-01-01,Latte,62.0
+2026-02-01,Latte,62.0
+2026-03-01,Latte,62.0
+2024-03-01,Americano,36.0
+2024-04-01,Americano,35.0
+2024-05-01,Americano,48.0
+2024-06-01,Americano,14.0
+2024-07-01,Americano,36.0
+2024-08-01,Americano,37.0
+2024-09-01,Americano,32.0
+2024-10-01,Americano,44.0
+2024-11-01,Americano,25.0
+2024-12-01,Americano,27.0
+2025-01-01,Americano,25.0
+2025-02-01,Americano,124.0
+2025-03-01,Americano,110.0
+2025-04-01,Americano,27.0
+2025-05-01,Americano,25.0
+2025-06-01,Americano,124.0
+2025-07-01,Americano,110.0
+2025-08-01,Americano,27.0
+2025-09-01,Americano,25.0
+2025-10-01,Americano,124.0
+2025-11-01,Americano,110.0
+2025-12-01,Americano,27.0
+2026-01-01,Americano,25.0
+2026-02-01,Americano,124.0
+2026-03-01,Americano,110.0
+2024-03-01,Cappuccino,20.0
+2024-04-01,Cappuccino,43.0
+2024-05-01,Cappuccino,55.0
+2024-06-01,Cappuccino,46.0
+2024-07-01,Cappuccino,32.0
+2024-08-01,Cappuccino,34.0
+2024-09-01,Cappuccino,41.0
+2024-10-01,Cappuccino,44.0
+2024-11-01,Cappuccino,26.0
+2024-12-01,Cappuccino,38.0
+2025-01-01,Cappuccino,27.0
+2025-02-01,Cappuccino,61.0
+2025-03-01,Cappuccino,50.0
+2025-04-01,Cappuccino,38.0
+2025-05-01,Cappuccino,27.0
+2025-06-01,Cappuccino,61.0
+2025-07-01,Cappuccino,50.0
+2025-08-01,Cappuccino,38.0
+2025-09-01,Cappuccino,27.0
+2025-10-01,Cappuccino,61.0
+2025-11-01,Cappuccino,50.0
+2025-12-01,Cappuccino,38.0
+2026-01-01,Cappuccino,27.0
+2026-02-01,Cappuccino,61.0
+2026-03-01,Cappuccino,50.0
+2024-03-01,Cortado,30.0
+2024-04-01,Cortado,19.0
+2024-05-01,Cortado,17.0
+2024-06-01,Cortado,19.0
+2024-07-01,Cortado,14.0
+2024-08-01,Cortado,40.0
+2024-09-01,Cortado,41.0
+2024-10-01,Cortado,34.0
+2024-11-01,Cortado,13.0
+2024-12-01,Cortado,31.0
+2025-01-01,Cortado,22.0
+2025-02-01,Cortado,10.0
+2025-03-01,Cortado,2.0
+2025-04-01,Cortado,23.0
+2025-05-01,Cortado,26.0
+2025-06-01,Cortado,25.0
+2025-07-01,Cortado,25.0
+2025-08-01,Cortado,25.0
+2025-09-01,Cortado,24.0
+2025-10-01,Cortado,24.0
+2025-11-01,Cortado,24.0
+2025-12-01,Cortado,23.0
+2026-01-01,Cortado,23.0
+2026-02-01,Cortado,23.0
+2026-03-01,Cortado,23.0
+2024-03-01,Hot Chocolate,22.0
+2024-04-01,Hot Chocolate,13.0
+2024-05-01,Hot Chocolate,14.0
+2024-06-01,Hot Chocolate,14.0
+2024-07-01,Hot Chocolate,11.0
+2024-08-01,Hot Chocolate,6.0
+2024-09-01,Hot Chocolate,11.0
+2024-10-01,Hot Chocolate,58.0
+2024-11-01,Hot Chocolate,37.0
+2024-12-01,Hot Chocolate,26.0
+2025-01-01,Hot Chocolate,15.0
+2025-02-01,Hot Chocolate,32.0
+2025-03-01,Hot Chocolate,23.0
+2025-04-01,Hot Chocolate,18.0
+2025-05-01,Hot Chocolate,17.0
+2025-06-01,Hot Chocolate,72.0
+2025-07-01,Hot Chocolate,47.0
+2025-08-01,Hot Chocolate,37.0
+2025-09-01,Hot Chocolate,26.0
+2025-10-01,Hot Chocolate,43.0
+2025-11-01,Hot Chocolate,34.0
+2025-12-01,Hot Chocolate,30.0
+2026-01-01,Hot Chocolate,29.0
+2026-02-01,Hot Chocolate,84.0
+2026-03-01,Hot Chocolate,59.0
+2024-09-01,Cocoa,9.0
+2024-10-01,Cocoa,32.0
+2024-11-01,Cocoa,35.0
+2024-12-01,Cocoa,21.0
+2025-01-01,Cocoa,14.0
+2025-02-01,Cocoa,56.0
+2025-03-01,Cocoa,30.0
+2025-04-01,Cocoa,30.0
+2025-05-01,Cocoa,16.0
+2025-06-01,Cocoa,16.0
+2025-07-01,Cocoa,16.0
+2025-08-01,Cocoa,16.0
+2025-09-01,Cocoa,16.0
+2025-10-01,Cocoa,16.0
+2025-11-01,Cocoa,16.0
+2025-12-01,Cocoa,16.0
+2026-01-01,Cocoa,16.0
+2026-02-01,Cocoa,16.0
+2026-03-01,Cocoa,16.0
+2024-03-01,Espresso,10.0
+2024-04-01,Espresso,7.0
+2024-05-01,Espresso,8.0
+2024-06-01,Espresso,10.0
+2024-07-01,Espresso,14.0
+2024-08-01,Espresso,14.0
+2024-09-01,Espresso,12.0
+2024-10-01,Espresso,12.0
+2024-11-01,Espresso,3.0
+2024-12-01,Espresso,12.0
+2025-01-01,Espresso,5.0
+2025-02-01,Espresso,31.0
+2025-03-01,Espresso,14.0
+2025-04-01,Espresso,11.0
+2025-05-01,Espresso,13.0
+2025-06-01,Espresso,15.0
+2025-07-01,Espresso,12.0
+2025-08-01,Espresso,15.0
+2025-09-01,Espresso,16.0
+2025-10-01,Espresso,13.0
+2025-11-01,Espresso,16.0
+2025-12-01,Espresso,18.0
+2026-01-01,Espresso,15.0
+2026-02-01,Espresso,17.0
+2026-03-01,Espresso,19.0
